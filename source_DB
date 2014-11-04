@@ -1,0 +1,42 @@
+[
+    [
+        "[COLOR=lime]Truyền Hình TV Hải Ngoại[/COLOR]",
+        "http://estore.iteckie.com/wp-content/uploads/XML/HaiNgoai.xml"
+    ],
+	[
+        "[COLOR=FFFFFF00]Trung Tâm Thúy Nga - Paris By Night[/COLOR]",
+        "https://github.com/nguoicodon/playlist/blob/master/PBN.xml"
+    ],
+	[
+        "[COLOR=blue]Trung Tâm Asia[/COLOR]",
+        "https://github.com/nguoicodon/playlist/blob/master/Asia.xml"
+    ],
+    [
+        "[COLOR=FFFF00FF]Trung Tâm Vân Sơn[/COLOR]",
+        "https://github.com/nguoicodon/playlist/blob/master/VanSon.xml"
+    ],
+    [
+        "[COLOR=FFF88017] Phim VKOOL.com[/COLOR]",
+        "https://github.com/nguoicodon/playlist/blob/master/vkool.xml"
+    ],
+    [
+        "[COLOR=cyan]Nhạc Việt  in HD - [COLOR=tan] Âm Thanh DOLBY DIGITAL 5.1 [/COLOR][/COLOR]",
+        "http://estore.iteckie.com/wp-content/uploads/XML/NhacViet-HD.xml"
+    ],
+    [
+        "[COLOR=red]Truyện Ma - [COLOR=blue]Nguyễn Ngọc Ngạn[/COLOR][/COLOR]",
+        "http://estore.iteckie.com/wp-content/uploads/XML/TruyenMa.xml"
+    ],
+    [
+        "[COLOR=lime]Phim 3S - [COLOR=coral] Tổng hợp gần 1400 Phim Lẻ đủ loại... [/COLOR][/COLOR]",
+        "http://estore.iteckie.com/wp-content/uploads/XML/Phim3sLeFull.xml"
+    ],
+    [
+        "[COLOR=tan]Encoded ...[/COLOR]",
+        "http://estore.iteckie.com/wp-content/uploads/XML/PBN-Encoded.xml"
+    ],    
+    [
+        "[COLOR=grey] VietTV24 Test[/COLOR]",
+        "http://thong.viettv24.com/source_file?xml=710070432"
+    ],    
+]
