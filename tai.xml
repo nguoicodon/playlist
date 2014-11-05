@@ -4,68 +4,64 @@
 <name>[COLOR FF00FF00]->>[B] Hài Kịch [/B][COLOR blue] - [I]Tài Tiếu Tuyệt[/I][/COLOR][/COLOR]</name>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
 
-<subchannels>
-<subchannel>
-<name>[COLOR=FFFFFF00]->>[B] Tài Tiếu Tuyệt [/B] - [I]Mùa thứ 6[/I][/COLOR]</name>
-<thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-<subitems>
 
-<subitem>
+
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 1[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/Hai_Kich/TaiTieuTuyet2013So51_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjIwNyZoYXNoX3ZhbHVlPThmMWM4ZjNkZjVhZWZhYWVhNjA3NWEyZDNhYjdiN2M1JnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 2[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/Hai_Kich/TaiTieuTuyet2013So52_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjUzOCZoYXNoX3ZhbHVlPTkyYmFlYjE3MjBmYzRjY2EyYjgxZTIzNGI3MjQ2MTlkJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 3[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/Hai_Kich/TaiTieuTuyet2013So53_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjU2MiZoYXNoX3ZhbHVlPTVhMDMyODg2Yzg0NjAxNDdhZWFiNTg4NGEwZDcxNjBjJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 4[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/Hai_Kich/TaiTieuTuyet2013So54_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjY0MCZoYXNoX3ZhbHVlPTFmNTFlOGNjMWM1NjdmYTc5YjE4NGM4MDAzYTVjZmYzJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 5[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/Hai_Kich/TaiTieuTuyet2013So56_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjY2NyZoYXNoX3ZhbHVlPWY1MGIzNWZiZTljNWY1N2Q2OWJlOGNiNGQ4Y2U0NzA5JnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 6[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/Hai_Kich/TaiTieuTuyet2013So57_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjcwOSZoYXNoX3ZhbHVlPTQzYjc4ZTJmZGQwYWM5ZmFhYzA0OTM0YTZlNTEyZTQ3JnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 7[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4//OTT/Hai_Kich/TaiTieuTuyet2013So60_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjc0MiZoYXNoX3ZhbHVlPTQyYjJiMDBhN2NlNzcxYjBhZDhjMjE2Mjg3N2YwMGYxJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 8[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4//OTT/Hai_Kich/TaiTieuTuyet2013So62_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjc2NCZoYXNoX3ZhbHVlPWQ4ODU5MGY0NjBlNzA0OGFhNzU4NmRlNGJiZjY1MDBmJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 9[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4//OTT/Hai_Kich/TaiTieuTuyet2013So63_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjgwOCZoYXNoX3ZhbHVlPTQzOWI0Yzk0OWMxNmMxMTZlMTcwNDJkZTdjNjRjMWNmJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 10[/COLOR]</title>
 <link>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4//OTT/Hai_Kich/TaiTieuTuyet2013So65_2013_VietNam.mp4/playlist.m3u8?token=c2VydmVyX3RpbWU9MTQxNTEyNjgzNCZoYXNoX3ZhbHVlPTRlYjQxNTg1OWRmNDg3NDU0NWI5OWI5MTE4YmEzN2ViJnZhbGlkX21pbnV0ZXM9MTQ0MA</link>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-</subitem>
+</item>
