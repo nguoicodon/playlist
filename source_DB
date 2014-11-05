@@ -21,12 +21,8 @@
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/tai.xml"
     ],
     [
-        "[COLOR=FFFFFF00]->>[B] Bạn Muốn Hẹn Hò? [/B] - [I]2014[/I][/COLOR]",
+        "[COLOR=red]->>[B] Bạn Muốn Hẹn Hò? [/B] - [I]2014[/I][/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/banmuo.xml"
-    ],
-    [
-        "[COLOR=red]Phim Lẻ - [COLOR=blue]moviHD[/COLOR][/COLOR]",
-        "https://raw.githubusercontent.com/nguoicodon/playlist/master/movihd.xml"
     ],
      [
         "[COLOR=FFF88017]Phim Lẻ -[COLOR=blue] VKOOL.COM[/COLOR]",
@@ -36,9 +32,6 @@
         "[COLOR=lime]Phim 3S - [COLOR=coral] Tổng hợp gần 1400 Phim Lẻ đủ loại... [/COLOR][/COLOR]",
         "http://estore.iteckie.com/wp-content/uploads/XML/Phim3sLeFull.xml"
     ],
-    [
-        "[COLOR=tan]Phim vaphim...[/COLOR]",
-        "https://raw.githubusercontent.com/nguoicodon/playlist/master/phim%20vaphim.m3u"
-    ],    
+        
         
 ]
