@@ -1,8 +1,5 @@
 [
-    [
-        "[COLOR=lime]Truyền Hình TV Hải Ngoại[/COLOR]",
-        "http://estore.iteckie.com/wp-content/uploads/XML/HaiNgoai.xml"
-    ],
+    
 	[
         "[COLOR=FFFFFF00]Trung Tâm Thúy Nga - Paris By Night[/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/PBN.xml"
@@ -14,10 +11,6 @@
     [
         "[COLOR=FFFF00FF]Trung Tâm Vân Sơn[/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/VanSon.xml"
-    ],
-    [
-        "[COLOR=FFF88017] Phim VKOOL.COM[/COLOR]",
-        "https://raw.githubusercontent.com/nguoicodon/playlist/master/vkool.xml"
     ],
     [
         "[COLOR FF00FF00]->>[B]Đường Lên Đỉnh Olympia [/B][COLOR blue] - [I](Năm Thứ 15)[/I][/COLOR][/COLOR]",
@@ -35,6 +28,10 @@
         "[COLOR=red]Truyện Ma - [COLOR=blue]Nguyễn Ngọc Ngạn[/COLOR][/COLOR]",
         "http://estore.iteckie.com/wp-content/uploads/XML/TruyenMa.xml"
     ],
+     [
+        "[COLOR=FFF88017] Phim VKOOL.COM[/COLOR]",
+        "https://raw.githubusercontent.com/nguoicodon/playlist/master/vkool.xml"
+    ],
     [
         "[COLOR=lime]Phim 3S - [COLOR=coral] Tổng hợp gần 1400 Phim Lẻ đủ loại... [/COLOR][/COLOR]",
         "http://estore.iteckie.com/wp-content/uploads/XML/Phim3sLeFull.xml"
@@ -43,8 +40,5 @@
         "[COLOR=tan]Phim vaphim...[/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/phim%20vaphim.m3u"
     ],    
-    [
-        "[COLOR=grey] VietTV24 Test[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=710070432"
-    ],    
+        
 ]
