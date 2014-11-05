@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<channels>
+
 <channel>
 <name>[COLOR FF00FF00]->>[B]Đường Lên Đỉnh Olympia [/B][COLOR blue] - [I](Năm Thứ 15)[/I][/COLOR][/COLOR]</name>
 <thumbnail>http://static.fptplay.net.vn/static/img/share/video/13_08_2014/mc-tung-chi-vtcnews_113-08-2014_10g11-55.jpg</thumbnail>
-<items>
+
 
 <item>
 <title>[COLOR FF00FF00][B]Tập 1 [/B][/COLOR]</title>
@@ -91,11 +91,7 @@
 <name>[COLOR FF00FF00]->>[B] Hài Kịch [/B][COLOR blue] - [I]Tài Tiếu Tuyệt[/I][/COLOR][/COLOR]</name>
 <thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
 
-<subchannels>
-<subchannel>
-<name>[COLOR=FFFFFF00]->>[B] Tài Tiếu Tuyệt [/B] - [I]Mùa thứ 6[/I][/COLOR]</name>
-<thumbnail>http://static.mientayphim.com/movies/IPTV/Webroot/TVOD/Stage/Dramatics/2014/03/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T/TaiTieuTuyetMuaThu4_2013_VietNam_B_50T_CN.jpg</thumbnail>
-<subitems>
+
 
 <subitem>
 <title>[COLOR red]Tài Tiếu Tuyệt[/COLOR][COLOR green]2014[/COLOR][COLOR=FFFFFF00]Số 1[/COLOR]</title>
@@ -158,7 +154,7 @@
 </subitem>
 
 =========================================================
-<subchannels>
+
 <subchannel>
 <name>[COLOR=FFFFFF00]->>[B] Bạn Muốn Hẹn Hò? [/B] - [I]2014[/I][/COLOR]</name>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/video/15_09_2014/ban-muon-hen-ho-315-09-2014_14g18-48.jpg</thumbnail>
