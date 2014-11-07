@@ -1,16 +1,22 @@
-[
+  [
     
-	[
+    [
         "[COLOR=FFFFFF00]Trung Tâm Thúy Nga - Paris By Night[/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/PBN.xml"
+		"fanart": "http://i39.tinypic.com/2ue0a45.jpg", 
+		"thumbnail": "http://i43.tinypic.com/29lz13m.jpg"
     ],
-	[
+    [
         "[COLOR=blue]Trung Tâm Asia[/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/Asia.xml"
+		"fanart": "http://i41.tinypic.com/11uj1w7.jpg",
+		"thumbnail": "http://upload.wikimedia.org/wikipedia/vi/e/ed/Trung_T%C3%A2m_Asia.jpg"
     ],
     [
         "[COLOR=FFFF00FF]Trung Tâm Vân Sơn[/COLOR]",
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/VanSon.xml"
+		"fanart": "http://i39.tinypic.com/330wjyb.jpg",
+		"thumbnail": "http://i44.tinypic.com/nmxfti.png"
     ],
     [
         "[COLOR FF00FF00]->>[B]Đường Lên Đỉnh Olympia [/B][COLOR blue] - [I](Năm Thứ 15)[/I][/COLOR][/COLOR]",
@@ -25,8 +31,8 @@
         "https://raw.githubusercontent.com/nguoicodon/playlist/master/banmuo.xml"
     ],
      [
-        "[COLOR=FFF88017]Phim Lẻ -[COLOR=blue] VKOOL.COM[/COLOR]",
-        "https://raw.githubusercontent.com/nguoicodon/playlist/master/vkool.xml"
+        "[COLOR=FFF88017]Phim Lẻ -[COLOR=blue] movihd.net[/COLOR]",
+        "https://raw.githubusercontent.com/nguoicodon/playlist/master/movi.xml"
     ],
     [
         "[COLOR=lime]Phim 3S - [COLOR=coral] Tổng hợp gần 1400 Phim Lẻ đủ loại... [/COLOR][/COLOR]",
