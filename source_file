@@ -1,157 +1,19 @@
 [
-    [
-        "[COLOR FF00FF00]ÄÃ i TV Háº£i Ngoáº¡i[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=710070432"
-    ],
-	[
-        "[COLOR blue]ÄÃ i TV Viá»‡t Nam - [COLOR FFFF0000] KÃªnh VTV [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=144934779"
-    ],
-    [
-        "[COLOR blue]ÄÃ i TV Viá»‡t Nam - [COLOR FF00FF00]KÃªnh HTV/HTVC [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=817398853"
-    ],
-    [
-        "[COLOR blue]ÄÃ i TV Viá»‡t Nam - [COLOR FFFF00FF]KÃªnh SCTV [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=2017489819"
-    ],
-    [
-        "[COLOR blue]ÄÃ i TV Viá»‡t Nam- [COLOR FFFFCC00]KÃªnh VTC [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1747797892"
-    ],
-	[
-        "[COLOR blue]ÄÃ i TV Viá»‡t Nam - [COLOR FF00FFFF] KÃªnh Tá»‰nh ThÃ nh & Äá»‹a PhÆ°Æ¡ng [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1656581104"
-    ],
-    [
-        "[COLOR FFF88017]Show Ca Nháº¡c - Tá»•ng Há»£p[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=2000222390"
-    ],
-	[
-        "[COLOR lime]Trung TÃ¢m Paris By Night -[COLOR red]ThÃºy Nga 111 HD [COLOR blue]is in ChÆ°Æ¡ng TrÃ¬nh Äáº·c Biá»‡t[/COLOR][/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1816294184"
-    ],
-    [
-        "[COLOR FFFF0000]Trung TÃ¢m ASIA [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=90940608"
-    ],
-    [
-        "[COLOR FF00FFFF]Show Ca Nháº¡c - Giai Äiá»‡u QuÃª HÆ°Æ¡ng [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=488489187"
-    ],
-    [
-        "[COLOR FF00FF00]Karaoke Nháº¡c Viá»‡t[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1565401943"
-    ],
-    [
-        "[COLOR FFF88017]Sports TV - Thá»ƒ Thao[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1856751369"
-    ],
-    [
-        "[COLOR FFFF00FF]News TV - Tin Tá»©c[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=2019748828"
-    ],
-    [
-        "[COLOR FFFF0000]Entertainment TV - Giáº£i TrÃ­[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1719577031"
-    ],
-    [
-        "[COLOR FF00FFFF]World TV - Tháº¿ Giá»›i[/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=388113990"
-    ],
-	[
-        "[COLOR blue] ChÆ°Æ¡ng TrÃ¬nh HÃ i - [COLOR FFFFFF00] ThÆ°  GiÃ£n [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1769667628"
-    ],
-    [
-        "[COLOR blue] ChÆ°Æ¡ng TrÃ¬nh HÃ i - [COLOR green] CÃ  PhÃª CÆ°á»i [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1159187608"
-    ],
-	
-	[
-        "[COLOR FFFF00FF]Truyá»n HÃ¬nh Thiáº¿u Nhi - [COLOR FFFF0000] Kids Zone [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=2013379052"
-    ],
-    [
-        "[COLOR FFFF00FF]ChÆ°Æ¡ng TrÃ¬nh Thiáº¿u Nhi - [COLOR FF00FF00] Tá»•ng Há»£p [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=161534314"
-    ],
-    [
-        "[COLOR FFFF00FF]ChÆ°Æ¡ng TrÃ¬nh Thiáº¿u Nhi - [COLOR blue] GiÃ¡o Dá»¥c [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=522856643"
-    ],
-    [
-        "[COLOR FFFF00FF]ChÆ°Æ¡ng TrÃ¬nh Thiáº¿u Nhi - [COLOR FFFFCC00] Cá»• TÃ­ch Viá»‡t Nam [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=48675156"
-    ],
-    [
-        "[COLOR FFFF6600]VOD Giáº£i TrÃ­ Tá»•ng Há»£p [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1087334766"
-    ],
-	[
-        "[COLOR FF00FFF0]Kiáº¿n thá»©c cáº§n thiáº¿t cho cuá»™c sá»‘ng táº¡i Hoa Ká»³ [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1287857936"
-    ],
-    [
-        "ChÆ°Æ¡ng TrÃ¬nh Di trÃº vÃ  Nháº­p Tá»‹ch Hoa Ká»³ ",
-        "http://thong.viettv24.com/source_file?xml=986065217"
-    ],
-    [
-        "[COLOR FF00FF00]Cuá»™c sá»‘ng cá»§a NgÆ°á»i Viá»‡t táº¡i Hoa Ká»³ [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1238014568"
-    ],
-    [
-        "[COLOR FFFF0000]ChÆ°Æ¡ng TrÃ¬nh QuÃª NhÃ -QuÃª NgÆ°á»i [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=2135287955"
-    ],
-    [
-        "[COLOR FFF88017]Cuá»™c sá»‘ng cá»§a NgÆ°á»i Viá»‡t trÃªn Tháº¿ giá»›i [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1007488113"
-    ],
-    [
-         "[COLOR FF00FFFF]Viá»‡t Nam - Äáº¥t NÆ°á»›c - Con NgÆ°á»i [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=244643287"
-    ],
-    [
-        "[COLOR FFFF6600]Viá»‡t Nam - KhÃ¡m PhÃ¡ Miá»n TÃ¢y [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=595596306"
-    ],
-    [
-        "[COLOR green]ChÆ°Æ¡ng TrÃ¬nh áº¨m Thá»±c - [COLOR blue] Tá»•ng Há»£p [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1506772269"
-    ],
-	[
-        "[COLOR green]ChÆ°Æ¡ng TrÃ¬nh áº¨m Thá»±c - [COLOR FFFF0000] Quá»‘c Táº¿ [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1158536811"
-    ],
-    [
-        "[COLOR green]ChÆ°Æ¡ng TrÃ¬nh áº¨m Thá»±c - [COLOR FFFF00FF] MÃ³n Ngon Cuá»‘i Tuáº§n [/COLOR][/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=182975727"
-    ],
-	[
-        "[COLOR FFFFFF00]BÃ¡c SÄ© Gia ÄÃ¬nh [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=330182499"
-    ],
-    [
-        "[COLOR FFFF00FF]Y Há»c ThÆ°á»ng Thá»©c [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1014839261"
-    ],
-    [
-        "[COLOR FFFF0000]CÃ¢y Thuá»‘c [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=726197786"
-    ],
-    [
-        "[COLOR FFFF6600]KhÃ¡m PhÃ¡ Tháº¿ Giá»›i [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=412788709"
-    ],
-    [
-        "[COLOR FFFFFF00]Phim TÃ i Liá»‡u [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=1132106116"
-    ],
-    [
-        "[COLOR FF00FF00]Tháº¿ giá»›i Ä‘á»™ng váº­t [/COLOR]",
-        "http://thong.viettv24.com/source_file?xml=275243242"
-    ],
  
-    
+
+{"url": "http://tinyurl.com/nj4buap", "fanart": "http://i39.tinypic.com/2ue0a45.jpg", "thumbnail": "http://i43.tinypic.com/29lz13m.jpg", "title": "[COLOR=FFFFFF00]Trung Tâm Thúy Nga - Paris By Night[/COLOR]"}, 
+
+{"url": "http://tinyurl.com/l9yjsyb", "fanart": "http://i41.tinypic.com/11uj1w7.jpg", "thumbnail": "http://upload.wikimedia.org/wikipedia/vi/e/ed/Trung_T%C3%A2m_Asia.jpg", "title": "[COLOR=blue]Trung Tâm Asia[/COLOR]"},
+
+{"url": "http://tinyurl.com/kwz8rhw", "fanart": "http://i39.tinypic.com/330wjyb.jpg", "thumbnail": "http://i44.tinypic.com/nmxfti.png", "title": "[COLOR=FFFF00FF]Trung Tâm Vân Sơn[/COLOR]"},
+
+
+{"url": "http://tinyurl.com/nwshpvu", "fanart": "http://estore.iteckie.com/wp-content/uploads/images/Phim3S-fanart.jpg", "thumbnail": "http://movihd.net/img/layout/logo.png", "title": "[COLOR=cyan]Phim Lẻ- [COLOR=coral]movihd.net [/COLOR][/COLOR]"},
+
+{"url": "http://tinyurl.com/l44bzam", "fanart": "http://estore.iteckie.com/wp-content/uploads/images/Phim3S-fanart.jpg", "thumbnail": "http://megabox.vn/public/Home/images/favicon.ico", "title": "[COLOR=FFFF00FF]Phim Lẻ- [COLOR=coral]megabox.vn [/COLOR][/COLOR]"},
+
+{"url": "http://tinyurl.com/l76jzb8", "fanart": "http://estore.iteckie.com/wp-content/uploads/images/Phim3S-fanart.jpg", "thumbnail": "http://cdn-static.hayhaytv.vn/layout/images/logo.png", "title": "[COLOR=blue]Phim Bộ- [COLOR=coral]hayhaytv.vn [/COLOR][/COLOR]"},
+
+{"url": "http://estore.iteckie.com/wp-content/uploads/XML/Phim3sLeFull.xml", "fanart": "http://estore.iteckie.com/wp-content/uploads/images/Phim3S-fanart.jpg", "thumbnail": "http://estore.iteckie.com/wp-content/uploads/images/Phim3S.png", "title": "[COLOR=lime]Phim 3S - [COLOR=coral] Tổng hợp gần 1400 Phim Lẻ đủ loại... [/COLOR][/COLOR]"} 
+
 ]
