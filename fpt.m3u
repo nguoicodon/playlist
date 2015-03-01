@@ -23,6 +23,8 @@ udp://@225.1.1.83:30120
 udp://@225.1.2.82:30120
 #EXTINF:-1, Kênh Phim Truyện 1 VOD
 http://125.212.200.3:1935/liveidc/phimtruyenhd_2m.stream/playlist.m3u8
+#EXTINF:-1, SCTV 15
+udp://@225.1.1.246:30120
 #EXTINF:-1, K+1 HD
 udp://@225.1.1.134:30120
 
