@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<item><title>VTV1 HD</title><link>udp://225.1.2.249:30120</link><thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv1-hd_142284975301.png</thumbnail></item>
+<item><title>VTV1 HD</title><link>udp://225.1.2.249:30120</link><description> Kenh thong tin giai tri</description><thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv1-hd_142284975301.png</thumbnail></item>
 <item><title>VTV3 HD</title><link>udp://225.1.2.247:30120</link><thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv3_142285169797.png</thumbnail></item>
 <item><title>VTV6 HD</title><link>udp://225.1.2.245:30120</link><thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv6-hd_142285155851.png</thumbnail></item>
 <item><title>HTV2 HD</title><link>udp://225.1.1.193:30120</link><thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_htv2_142286357695.png</thumbnail></item>
