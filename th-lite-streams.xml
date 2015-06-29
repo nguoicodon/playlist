@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<item><title>VTV3 HD</title><link>udp://225.1.2.247:30120</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3.png</thumbnail></item>
+<item><title>Channel 3 HD</title><link>rtmp://cs77.cuptv.com/live playpath=ch3hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3.png</thumbnail></item>
+<item><title>Channel 3 family</title><link>rtmp://cs77.cuptv.com/live playpath=ch3family3 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3.png</thumbnail></item>
+<item><title>Channel 3 SD</title><link>rtmp://cs77.cuptv.com/live playpath=ch3sd3 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3.png</thumbnail></item>
+<item><title>Channel 5</title><link>rtmp://cs77.cuptv.com/live playpath=ch5hd3 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch5.png</thumbnail></item>
+<item><title>Channel 5 HD</title><link>rtmp://cs77.cuptv.com/live playpath=ch5hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch5hd.png</thumbnail></item>
+<item><title>Channel 7</title><link>rtmp://cs77.cuptv.com/live playpath=ch7hd3 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch7hd.png</thumbnail></item>
+<item><title>Channel 7 HD</title><link>rtmp://cs77.cuptv.com/live playpath=ch7hd4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch7hd.png</thumbnail></item>
+<item><title>M Channel HD</title><link>http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_mchannel.png</thumbnail></item>
+<item><title>Thairath TV HD</title><link>http://live.thairath.co.th/trtv/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_thairath.png</thumbnail></item>
+<item><title>one HD</title><link>http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_onehd.png</thumbnail></item>
+<item><title>MCOT HD</title><link>rtmp://cs77.cuptv.com/live playpath=chmcot4 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_mcot9.png</thumbnail></item>
+<item><title>mono 29</title><link>rtmp://cs77.cuptv.com/live playpath=chmono293 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_mono.png</thumbnail></item>
+<item><title>VoiceTV</title><link>rtmp://cs77.cuptv.com/live playpath=chvoicetv3 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_voicetv.png</thumbnail></item>
+<item><title>Channel 2</title><link>rtmp://cs77.cuptv.com/live playpath=ch23 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch2.png</thumbnail></item>
+<item><title>Channel 8</title><link>rtmp://cs77.cuptv.com/live playpath=ch83 swfUrl=http://cuptv.com/flowplayer.commercial-3.2.5.swf?0.6350693357694348 pageUrl=http://cuptv.com/live_frame.php live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch8.png</thumbnail></item>
+
+
+
+<!-- <item><title>Channel 3</title><link>http://111.223.37.199/live/thaitv3_33/master.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3.png</thumbnail></item>
+<item><title>Channel 3 SD</title><link>http://111.223.37.199/live/thaitv3_28/master.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3.png</thumbnail></item>
+<item><title>Channel 3 family</title><link>http://111.223.37.199/live/thaitv3_13/master.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch3family.png</thumbnail></item>
+<item><title>Channel 5</title><link>http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w754970194_b512000.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch5.png</thumbnail></item>
+<item><title>Channel 5 HD</title><link>http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch5hd.png</thumbnail></item>
+<item><title>Channel 7 HD</title><link>rtmp://je9.bugaboo.tv/liveedgech7 playpath=livech71 swfUrl=http://www.tvzza.com/player.swf  pageUrl=http://www.tvzza.com/channel-7/hd/exactfit.html live=1</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_ch7hd.png</thumbnail></item>
+<item><title>M Channel HD</title><link>http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_mchannel.png</thumbnail></item>
+<item><title>Thairath TV HD</title><link>http://live.thairath.co.th/trtv/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_thairath.png</thumbnail></item>
+<item><title>one HD</title><link>http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8</link><thumbnail>http://srv1.iptvxtra.net/xbmc/senderlogos_th/th_onehd.png</thumbnail></item> -->
+
+
+
