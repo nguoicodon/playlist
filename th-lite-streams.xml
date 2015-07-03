@@ -9,3 +9,8 @@
 <link>udp://225.1.2.247:30120</link>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv3_142285169797.png</thumbnail>
 <description> Kênh Giải Trí</description></item>
+
+<item><title>VTV6 HD</title>          <fw>vi</fw><epg></epg><xmlepg>VTV6 HD</xmlepg><genre>LiveStream</genre>
+<link>udp://225.1.2.245:30120 live=1</link>
+<thumbnail>http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vtv6-hd_142285155851.png</thumbnail>
+<description></description></item>
