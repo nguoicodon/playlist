@@ -3,7 +3,7 @@
 <item><title>VTV1 HD</title>          <fw>vi</fw><epg></epg><xmlepg>VTV1</xmlepg><genre>LiveStream</genre>
 <link>udp://225.1.2.249:30120</link>
 <thumbnail>http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vtv1-hd_142284975301.png</thumbnail>
-<Plot> Kênh Thông Tin Giải Trí</Plot></item>
+<description> Kênh Thông Tin Giải Trí</description></item>
 
 <item><title>VTV3 HD</title>          <fw>vi</fw><epg></epg><xmlepg>VTV3 HD</xmlepg><genre>LiveStream</genre>
 <link>udp://225.1.2.247:30120</link>
