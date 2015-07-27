@@ -1,443 +1,702 @@
 #EXTM3U
-
-
-#EXTINF:-1,VTV 1 HD
-udp://225.1.2.249:30120
-#EXTINF:-1,VTV 3 HD
-udp://225.1.2.247:30120
-#EXTINF:-1,VTV 6 HD
-udp://225.1.2.245:30120
-#EXTINF:-1,HTV2 HD
-udp://225.1.1.193:30120
-#EXTINF:-1,HTV7 HD
-udp://225.1.1.192:30120
-#EXTINF:-1,HTV9 HD
-udp://225.1.1.190:30120
-#EXTINF:-1,Thuần Việt HD
-udp://@225.1.1.84:30120
-#EXTINF:-1,HTVC phim HD
-udp://@225.1.1.85:30120
-#EXTINF:-1,FBNC HD
-udp://@225.1.1.83:30120
-#EXTINF:-1,QPVN HD
-udp://@225.1.2.82:30120
-#EXTINF:-1, Kênh Phim Truyện 1 VOD
-http://125.212.200.3:1935/liveidc/phimtruyenhd_2m.stream/playlist.m3u8
-#EXTINF:-1,1VTC HD
-udp://@225.1.2.126:30120
-#EXTINF:-1,2VTC HD
-udp://@225.1.2.127:30120
-#EXTINF:-1,3VTC HD
-udp://@225.1.2.128:30120
-#EXTINF:-1,VTC3 HD
-udp://@225.1.2.129:30120
-#EXTINF:-1,iTV HD
-udp://@225.1.2.130:30120
-#EXTINF:-1, Quốc Hội
-udp://@225.1.2.148:30120
-#EXTINF:-1, K+1 HD
-udp://@225.1.1.134:30120
-
-#EXTINF:-1, K+ PM HD
-udp://@225.1.1.138:30120
-
-#EXTINF:-1, K+ NS HD
-udp://@225.1.1.136:30120
-#EXTINF:-1, K+ PC
-udp://@225.1.1.137:30120
-#EXTINF:-1, THDT 1
-udp://@225.1.1.163:30120
-#EXTINF:-1, WarnerTV HD
-udp://@225.1.2.72:30120
-#EXTINF:-1, CinemaWorld
-udp://@225.1.2.73:30120
-#EXTINF:-1,[V] HD
-udp://@225.1.1.86:30120
-#EXTINF:-1,Nad Geo HD
-udp://@225.1.2.28:30120
-#EXTINF:-1,Discovery HD World 
-udp://@225.1.2.70:30120
-#EXTINF:-1,Fox HD
-udp://@225.1.2.67:30120
-#EXTINF:-1,HBO HD
-udp://225.1.2.233:30120
-#EXTINF:-1,STAR MOVIES HD
-udp://225.1.2.239:30120
-#EXTINF:-1,Catoon Network HD
-udp://@225.1.2.66:30120
-#EXTINF:-1,FASHION TV HD
-udp://225.1.2.227:30120
-#EXTINF:-1,OutDoor channal HD
-udp://@225.1.2.39:30120
-#EXTINF:-1,AXN HD
-udp://225.1.2.225:30120
-#EXTINF:-1,STAR WORLD HD
-udp://225.1.2.237:30120
-#EXTINF:-1,VTVcab16 bóng đá tv HD
-udp://@225.1.2.7:30120
-#EXTINF:-1,VTVcab3 Thể Thao tv HD
-udp://@225.1.2.8:30120
-#EXTINF:-1,VTVcab1 Giải Trí
-udp://@225.1.2.14:30120
-#EXTINF:-1,VTVcab2 Phim Việt
-udp://@225.1.2.3:30120
-#EXTINF:-1,VTVcab4 Kênh 17
-udp://@225.1.2.11:30120
-#EXTINF:-1,VTVcab5 Echannel
-udp://@225.1.2.6:30120
-#EXTINF:-1,VTVcab6 hayTV
-udp://@225.1.2.16:30120
-#EXTINF:-1,VTVcab7 Dramas
-udp://@225.1.2.5:30120
-#EXTINF:-1,VTVcab8 BiBi
-udp://@225.1.2.1:30120
-#EXTINF:-1,VTVcab9 InfoTV
-udp://@225.1.2.10:30120
-#EXTINF:-1,VTVcab10 O2tv
-udp://@225.1.2.12:30120
-#EXTINF:-1,VTVcab11 TV shopping
-udp://@225.1.2.18:30120
-#EXTINF:-1,VTVcab12 StyleTV
-udp://@225.1.2.9:30120
-#EXTINF:-1,VTVcab14 lotte đất việt
-udp://@225.1.2.17:30120
-#EXTINF:-1,VTVcab15 invesTV
-udp://@225.1.2.19:30120
-#EXTINF:-1,VTVcab17 yeah1TV
-udp://@225.1.2.13:30120
-#EXTINF:-1,SCTV1
-udp://@225.1.1.251:30120
-#EXTINF:-1,SCTV2
-udp://@225.1.1.240:30120
-#EXTINF:-1,SCTV3
-udp://@225.1.1.241:30120
-#EXTINF:-1,SCTV4
-udp://@225.1.1.242:30120
-#EXTINF:-1,SCTV5
-udp://@225.1.1.243:30120
-#EXTINF:-1,SCTV6
-udp://@225.1.1.244:30120
-#EXTINF:-1,SCTV7
-udp://@225.1.1.252:30120
-#EXTINF:-1,SCTV8
-udp://@225.1.1.245:30120
-#EXTINF:-1,SCTV9
-udp://@225.1.1.247:30120
-#EXTINF:-1,SCTV Phim Tổng Hợp
-udp://@225.1.1.249:30120
-#EXTINF:-1,SCTV14
-udp://@225.1.1.250:30120
-#EXTINF:-1,SCTV15
-udp://@225.1.1.246:30120
-
-#EXTINF:-1,CNN
-udp://@225.1.2.30:30120
-#EXTINF:-1, BBC World News
-udp://@225.1.2.57:30120
-#EXTINF:-1,afc
-udp://@225.1.2.34:30120
-#EXTINF:-1,Diva
-udp://@225.1.2.35:30120
-#EXTINF:-1,NHK world
-udp://@225.1.2.36:30120
-#EXTINF:-1, BBC Knowled¿e
-udp://@225.1.2.71:30120
-
-#EXTINF:-1,Da vinci
-udp://@225.1.2.37:30120
-#EXTINF:-1,Arirang
-udp://@225.1.2.41:30120
-#EXTINF:-1,Australia
-udp://@225.1.2.42:30120
-#EXTINF:-1,TV5
-udp://@225.1.2.46:30120
-#EXTINF:-1,DW
-udp://@225.1.2.47:30120
-#EXTINF:-1,Bloomber
-udp://@225.1.2.52:30120
-#EXTINF:-1,Disnay channel
-udp://@225.1.2.54:30120
-#EXTINF:-1,Animal
-udp://@225.1.2.55:30120
-#EXTINF:-1,Cinemax
-udp://@225.1.2.56:30120
-#EXTINF:-1,Disney Jumpo
-udp://@225.1.2.61:30120
-#EXTINF:-1,TLC
-udp://@225.1.2.64:30120
-#EXTINF:-1,MTV
-udp://@225.1.2.15:30120
-#EXTINF:-1,National Geographic channal
-udp://@225.1.2.27:30120
-#EXTINF:-1,Vpop
-udp://@225.1.2.29:30120
-
-#EXTINF:-1,HTV thể Thao
-udp://@225.1.1.116:30120
-#EXTINF:-1,VTV2
-udp://@225.1.1.226:30120
-#EXTINF:-1,VTV4
-udp://@225.1.1.228:30120
-#EXTINF:-1,VTV5
-udp://@225.1.1.229:30120
-#EXTINF:-1,VTV9
-udp://@225.1.1.121:30120
-#EXTINF:-1, Hà Nội 1
-udp://@225.1.1.231:30120
-#EXTINF:-1, Hà Nội 2
-udp://@225.1.1.16:30120
-
-#EXTINF:-1, STV1 (Sóc Trăng)
-udp://@225.1.1.166:30120
-#EXTINF:-1, BTV (Bình Thuận)
-udp://@225.1.1.167:30120
-#EXTINF:-1, HGTV (Hậu Giang)
-udp://@225.1.1.168:30120
-#EXTINF:-1, HDTV (Hải Dương)
-udp://@225.1.1.169:30120
-#EXTINF:-1, THBT (Bến Tre)
-udp://@225.1.1.173:30120
-#EXTINF:-1, NTV (Nam Định)
-udp://@225.1.1.174:30120
-#EXTINF:-1, THLC (Lào Cai)
-udp://@225.1.1.175:30120
-#EXTINF:-1, QTV (Quảng Trị)
-udp://@225.1.1.178:30120
-#EXTINF:-1, LSTV (Lạng Sơn)
-udp://@225.1.1.179:30120
-#EXTINF:-1, TBTV (Thái Bình)
-udp://@225.1.1.180:30120
-#EXTINF:-1, STV (Sơn La)
-udp://@225.1.1.181:30120
-#EXTINF:-1, HTTV (Hà Tĩnh)
-udp://@225.1.1.182:30120
-#EXTINF:-1, ĐTV (Điện Biên)
-udp://@225.1.1.183:30120
-#EXTINF:-1, HBTV (Hòa Bình)
-udp://@225.1.2.40:30120
-
-#EXTINF:-1, QTV1 (Quảng Ninh)
-udp://@225.1.2.124:30120
-#EXTINF:-1, QTV3
-udp://@225.1.2.123:30120
-
-#EXTINF:-1, THP (Hải Phòng)
-udp://@225.1.2.122:30120
-
-#EXTINF:-1, QBTV (Quảng Bình)
-udp://@225.1.2.138:30120
-
-#EXTINF:-1, NTV (Nghệ An)
-udp://@225.1.2.120:30120
-
-#EXTINF:-1, DRT1 (Đà Nẵng)
-udp://@225.1.1.58:30120
-#EXTINF:-1, DRT2
-udp://@225.1.1.59:30120
-
-#EXTINF:-1, KTV (Khánh Hòa)
-udp://@225.1.1.67:30120
-
-#EXTINF:-1, BTV 1 (Bình Dương)
-udp://@225.1.1.113:30120
-#EXTINF:-1, BTV 2
-udp://@225.1.1.114:30120
-#EXTINF:-1, BTV 3
-udp://@225.1.1.104:30120
-#EXTINF:-1, BTV 4 
-udp://@225.1.1.115:30120
-#EXTINF:-1, BTV 5
-udp://@225.1.1.105:30120
-
-#EXTINF:-1, LTV (Lâm Đồng)
-udp://@225.1.2.135:30120
-
-#EXTINF:-1, BTV (Bình Định)
-udp://@225.1.1.122:30120
-
-#EXTINF:-1, BRT (Vũng Tàu)
-udp://@225.1.2.137:30120
-
-#EXTINF:-1, ĐN 1 (Đồng Nai)
-udp://@225.1.1.41:30120
-#EXTINF:-1, ĐN 2
-udp://@225.1.1.42:30120
-
-#EXTINF:-1, ATV1 (An Giang)
-udp://@225.1.2.139:30120
-
-#EXTINF:-1, NTV (Ninh Bình)
-udp://@225.1.2.132:30120
-
-#EXTINF:-1, NTV (Ninh Thuận)
-udp://@225.1.2.134:30120
-
-#EXTINF:-1, TTV (Tuyên Quang)
-udp://@225.1.2.131:30120
-
-#EXTINF:-1, TTV (Thanh Hóa)
-udp://@225.1.2.121:30120
-
-#EXTINF:-1, TV1 (Thái Nguyên)
-udp://@225.1.2.115:30120
-
-#EXTINF:-1, TTV11 (Tây Ninh)
-udp://@225.1.1.53:30120
-
-#EXTINF:-1, THGL (Gia Lai)
-udp://@225.1.2.136:30120
-
-#EXTINF:-1, THĐT2 Miền Tây
-udp://@225.1.2.100:30120
-
-#EXTINF:-1, PTQ1 (Quảng Ngãi)
-udp://@225.1.2.230:30120
-
-#EXTINF:-1, BPTV2 (Bình Phước)
-udp://@225.1.2.234:30120
-
-#EXTINF:-1, THVL1 (Vĩnh Long) 
-udp://@225.1.1.91:30120
-#EXTINF:-1, THVL2
-udp://@225.1.1.92:30120
-
-#EXTINF:-1, THTV (Trà Vinh)
-udp://@225.1.2.140:30120
-
-#EXTINF:-1, THTPCT (Cần Thơ)
-udp://@225.1.1.54:30120
-
-#EXTINF:-1, THTG (Tiền Giang)
-udp://@225.1.2.142:30120
-
-#EXTINF:-1, KG1 (Kiên Giang)
-udp://@225.1.2.133:30120
-
-#EXTINF:-1, TTXVN
-udp://@225.1.1.56:30120
-
-#EXTINF:-1, AVG BTV11
-udp://@225.1.2.77:30120
-#EXTINF:-1, AVG BTV10
-udp://@225.1.2.78:30120
-#EXTINF:-1, AVG Viet Teen
-udp://@225.1.2.98:30120
-
-#EXTINF:-1, AVG Nhạc Nam Bộ
-udp://@225.1.2.80:30120
-#EXTINF:-1, AVG Đọc Sách
-udp://@225.1.2.83:30120
-#EXTINF:-1, AVG Thiên Đường Của Bé
-udp://@225.1.2.84:30120
-#EXTINF:-1, AVG Nhạc Nhẹ
-udp://@225.1.2.85:30120
-#EXTINF:-1, AVG Nhac Cách Mạng
-udp://@225.1.2.86:30120
-#EXTINF:-1, AVG Nhac Dân Tộc
-udp://@225.1.2.87:30120
-#EXTINF:-1, AVG Nhac Trẻ
-udp://@225.1.2.88:30120
-#EXTINF:-1, AVG Nhac Trữ Tình
-udp://@225.1.2.89:30120
-#EXTINF:-1, AVG Nhac Cổ Điển
-udp://@225.1.2.90:30120
-
-#EXTINF:-1, HCATV (PhimHay)
-udp://@225.1.2.99:30120
-#EXTINF:-1, HCATV (ANTG)
-udp://@225.1.2.79:30120
-#EXTINF:-1, HCATV (HiTV)
-udp://@225.1.2.91:30120
-#EXTINF:-1, HCATV (VNK Shopping)
-udp://@225.1.2.93:30120
-#EXTINF:-1, HCATV (MOV)
-udp://@225.1.2.95:30120
-#EXTINF:-1, HCATV2 (You)
-udp://@225.1.2.92:30120
-
-
-=================ZTV===============
-#EXTINF:-1,SCTV 1 - Kênh Hài
-http://125.212.200.1:1935/liveidc/sctv1_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 2 - Âm Nhạc Quốc Tế
-http://125.212.200.1:1935/liveidc/sctv2_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 3 - Kênh Sao TV
-http://125.212.200.1:1935/liveidc/sctv3_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 4 - Kênh Tổng Hợp
-http://125.212.200.1:1935/liveidc/sctv4_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 6  - Kênh Sóng Nhạc
-http://125.212.200.1:1935/liveidc/sctv6_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 8 - Kênh Kinh Tế
-http://125.212.200.1:1935/liveidc/vtc8_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 16 - Kênh Phim Truyện Nước Ngoài
-http://125.212.200.1:1935/liveidc/sctv16_1m.stream/playlist.m3u8
-#EXTINF:-1,SCTV 17 - Kênh Phim Truyện Chọn Lọc
-http://125.212.200.1:1935/liveidc/sctv_1m.stream/playlist.m3u8
-#EXTINF:-1, Kênh Phim Truyện 1 VOD
-http://125.212.200.3:1935/liveidc/phimtruyenhd_2m.stream/playlist.m3u8
-#EXTINF:-1,VTV3 HD
-http://123.30.184.172:1935/liveedgelock/vtv3hd_2m.stream/playlist.m3u8
-#EXTINF:-1,VTV6 HD
-http://123.30.184.172:1935/liveedgelock/vtv6hd_2m.stream/playlist.m3u8
-#EXTINF:-1,Warnert TV HD
-http://123.30.184.172:1935/liveedgelock/warnertv_2m.stream/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://123.30.184.172:1935/liveedgelock/smil:28_HBO_HD.smil/playlist.m3u8
-#EXTINF:-1,StarMovies  HD
-http://123.30.184.172:1935/liveedgelock/smil:24_StarMovieHD.smil/playlist.m3u8
-#EXTINF:-1,StarWorld HD
-http://125.212.200.1:1935/liveidc/StarWorldHD_2m.stream/playlist.m3u8
-#EXTINF:-1,natgeo HD
-http://125.212.200.1:1935/liveidc/natgeo_2m.stream/playlist.m3u8
-#EXTINF:-1,DiscoveryHD
-http://123.30.184.171:1935/liveedgelock/smil:27_DiscoveryHD.smil/playlist.m3u8
-#EXTINF:-1,disney HD
-http://123.30.184.172:1935/liveedgelock/disneyhd_2m.stream/playlist.m3u8
-#EXTINF:-1,AXN HD
-http://123.30.184.172:1935/liveedgelock/smil:31_AXN___HD.smil/playlist.m3u8
-#EXTINF:-1,VTC1 HD
-http://123.30.184.172:1935/liveedgelock/smil:17_vtchd1.smil/playlist.m3u8
-#EXTINF:-1,VTC2 HD
-http://123.30.184.172:1935/liveedgelock/smil:29_vtchd2.smil/playlist.m3u8
-#EXTINF:-1,VTC3 HD
-http://123.30.184.172:1935/liveedgelock/smil:16_vtchd3.smil/playlist.m3u8
-#EXTINF:-1,iTV HD
-http://123.30.184.172:1935/liveedgelock/smil:15_itvhd.smil/playlist.m3u8
-#EXTINF:-1,HTV 1
-http://125.212.200.1:1935/liveidc/htv1_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV 2
-http://125.212.200.1:1935/liveidc/htv2_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV 3
-http://125.212.200.1:1935/liveidc/htv3_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV4
-http://125.212.200.1:1935/liveidc/htv4_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV 7
-http://125.212.200.1:1935/liveidc/htv7_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV 9
-http://125.212.200.1:1935/liveidc/htv9_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV canhac
-http://125.212.200.1:1935/liveidc/htvcanhac_1m.stream/playlist.m3u8
-#EXTINF:-1,HTV dulich
-http://125.212.200.1:1935/liveidc/htvdulich_1m.stream/playlist.m3u8
-#EXTINF:-1,Channel
-http://125.212.200.1:1935/liveidc/channelv_1m.stream/playlist.m3u8
-#EXTINF:-1,Thuần Việt
-http://125.212.200.1:1935/liveidc/thuanviet_1m.stream/playlist.m3u8
-#EXTINF:-1,Phụ Nữ
-http://125.212.200.1:1935/liveidc/htvphunu_1m.stream/playlist.m3u8
-#EXTINF:-1,TTXVN
-http://125.212.200.1:1935/liveidc/ttxvn_1m.stream/playlist.m3u8
-#EXTINF:-1,vtc11
-http://125.212.200.1:1935/liveidc/vtc11_1m.stream/playlist.m3u8
-#EXTINF:-1,Catoon network
-http://125.212.200.1:1935/liveidc/cartoon_1m.stream/playlist.m3u8
-#EXTINF:-1,FBNC
-http://125.212.200.1:1935/liveidc/fbnc_1m.stream/playlist.m3u8
-#EXTINF:-1,VOV
-http://125.212.200.1:1935/liveidc/vov_1m.stream/playlist.m3u8
-#EXTINF:-1,Animal
-http://125.212.200.1:1935/liveidc/animal_1m.stream/playlist.m3u8
-#EXTINF:-1,Star Sport
-http://125.212.200.1:1935/liveidc/starsport_1m.stream/playlist.m3u8
-#EXTINF:-1,Cinemax
-http://125.212.200.1:1935/liveidc/cinemax_1m.stream/playlist.m3u8
+#EXTINF:-1 , TRUYỀN HÌNH FPT
+        
+         udp://225.1.1.2:30120
+        
+        #EXTINF:-1 , VTV1 HD
+        
+         udp://225.1.2.249:30120
+        
+        #EXTINF:-1 , VTV2
+        
+         udp://225.1.1.249:30120
+        
+        #EXTINF:-1 , VTV3 HD
+        
+         udp://225.1.2.247:30120
+        
+        #EXTINF:-1 , VTV6 HD
+        
+         udp://225.1.2.245:30120
+        
+        #EXTINF:-1 , VTV9
+        
+         udp://225.1.1.153:30120
+        
+        #EXTINF:-1 , HTV2 HD
+        
+         udp://225.1.1.193:30120
+        
+        #EXTINF:-1 , HTV7 HD
+        
+         udp://225.1.1.192:30120
+        
+        #EXTINF:-1 , HTV9 HD
+        
+         udp://225.1.1.190:30120
+        
+        #EXTINF:-1 , HTVC THỂ THAO
+        
+         udp://225.1.1.116:30120
+        
+        #EXTINF:-1 , VĨNH LONG 1
+        
+         udp://225.1.1.155:30120
+        
+        #EXTINF:-1 , HÀ NỘI 1
+        
+         udp://225.1.2.186:30120
+        
+        #EXTINF:-1 , STAR MOVIES HD
+        
+         udp://225.1.2.239:30120
+        
+        #EXTINF:-1 , HBO HD 
+        
+         udp://225.1.2.233:30120
+        
+        #EXTINF:-1 , CINEMAX
+        
+         udp://225.1.1.230:30120
+        
+        #EXTINF:-1 , AXN HD
+        
+         udp://225.1.2.225:30120
+        
+        #EXTINF:-1 , TRAVEL - LIVING
+        
+         udp://225.1.1.236:30120
+        
+        #EXTINF:-1 , DISCOVERY
+        
+         udp://225.1.1.238:30120
+        
+        #EXTINF:-1 , DISCOVERY WORLD HD
+        
+         udp://225.1.2.223:30120
+        
+        #EXTINF:-1 , NATIONAL GEOGRAPHIC
+        
+         udp://225.1.2.235:30120
+       
+        #EXTINF:-1 , ANIMAL PLANET
+        
+         udp://225.1.1.231:30120
+        
+        #EXTINF:-1 , CARTOON NETWORK HD
+        
+         udp://225.1.2.231:30120
+        
+        #EXTINF:-1 , DISNEY
+        
+         udp://225.1.1.232:30120
+        
+        #EXTINF:-1 , DISNEY JUNIOR
+        
+         udp://225.1.1.233:30120
+        
+        #EXTINF:-1 , STAR WORLD HD
+        
+         udp://225.1.2.237:30120
+        
+        #EXTINF:-1 , FASHION TV HD
+        
+         udp://225.1.2.227:30120
+        
+        #EXTINF:-1 , MTV
+        
+         udp://225.1.1.245:30120
+        
+        #EXTINF:-1 , CHANNEL V HD
+        
+         udp://225.1.1.188:30120
+        
+        #EXTINF:-1 , BLOOMBERG
+        
+         udp://225.1.1.227:30120
+        
+        #EXTINF:-1 , CNN
+        
+         udp://225.1.1.242:30120
+        
+        #EXTINF:-1 , ASIAN FOOD CHANNEL
+        
+         udp://225.1.1.198:30120
+        
+        #EXTINF:-1 , DIVA
+        
+         udp://225.1.1.199:30120
+        
+        #EXTINF:-1 , DA VINCI
+        
+         udp://225.1.1.197:30120
+        
+        #EXTINF:-1 , ARIRANG
+        
+         udp://225.1.1.201:30120
+        
+        #EXTINF:-1 , CHANNEL NEWS ASIA
+        
+         udp://225.1.1.202:30120
+        
+        #EXTINF:-1 , TV5MONDE
+        
+         udp://225.1.1.200:30120
+        
+        #EXTINF:-1 , DW
+        
+         udp://225.1.1.203:30120
+        
+        #EXTINF:-1 , NHK WORLD
+        
+         udp://225.1.1.196:30120
+        
+        #EXTINF:-1 , OUTDOOR CHANNEL HD
+        
+         udp://225.1.2.215:30120
+        
+        #EXTINF:-1 , FOX SPORTS 2
+        
+         udp://225.1.1.241:30120
+        
+        #EXTINF:-1 , FOX SPORTS
+        
+         udp://225.1.1.239:30120
+        
+        #EXTINF:-1 , FOX SPORTS HD
+        
+         udp://225.1.2.229:30120
+        
+        #EXTINF:-1 , K+1 HD
+        
+         udp://225.1.1.134:30120?drm=1
+        
+        #EXTINF:-1 , K+ NHỊP SỐNG HD
+        
+         udp://225.1.1.136:30120?drm=1
+        
+        #EXTINF:-1 , K+ PHÁI MẠNH HD
+        
+         udp://225.1.1.14:30120?drm=1
+        
+        #EXTINF:-1 , K+ PHONG CÁCH HD
+        
+         udp://225.1.1.137:30120?drm=1
+        
+        #EXTINF:-1 , GIẢI TRÍ TV
+        
+         udp://225.1.2.150:30120
+        
+        #EXTINF:-1 , PHIM VIỆT
+        
+         udp://225.1.2.159:30120
+        
+        #EXTINF:-1 , THỂ THAO TV
+        
+         udp://225.1.2.158:30120
+        
+        #EXTINF:-1 , M4ME
+        
+         udp://225.1.2.153:30120
+        
+        #EXTINF:-1 , E CHANNEL
+        
+         udp://225.1.2.156:30120
+        
+        #EXTINF:-1 , VTVCAB 6
+        
+         udp://225.1.1.254:30120
+        
+        #EXTINF:-1 , D DRAMAS
+        
+         udp://225.1.2.157:30120
+        
+        #EXTINF:-1 , BIBI
+        
+         udp://225.1.2.161:30120
+        
+        #EXTINF:-1 , INFO TV
+        
+         udp://225.1.2.154:30120
+        
+        #EXTINF:-1 , O2 TV
+        
+         udp://225.1.2.152:30120
+        
+        #EXTINF:-1 , TV SHOPPING
+        
+         udp://225.1.1.252:30120
+        
+        #EXTINF:-1 , STYLE TV
+        
+         udp://225.1.2.155:30120
+        
+        #EXTINF:-1 , VTVCAB 14
+        
+         udp://225.1.1.253:30120
+        
+        #EXTINF:-1 , INVEST TV
+        
+         udp://225.1.1.251:30120
+        
+        #EXTINF:-1 , BÓNG ĐÁ TV
+        
+         udp://225.1.2.160:30120
+        
+        #EXTINF:-1 , VTVCAB 17
+        
+         udp://225.1.2.151:30120
+        
+        #EXTINF:-1 , VFAMILY
+        
+         udp://225.1.1.15:30120
+        
+        #EXTINF:-1 , THỂ THAO TV HD
+        
+         udp://225.1.2.241:30120
+        
+        #EXTINF:-1 , BÓNG ĐÁ TV HD
+        
+         udp://225.1.2.243:30120
+        
+        #EXTINF:-1 , VTC1 HD
+        
+         udp://225.1.2.254:30120
+        
+        #EXTINF:-1 , VTC HD2
+        
+         udp://225.1.2.253:30120
+        
+        #EXTINF:-1 , VTC HD3
+        
+         udp://225.1.2.252:30120
+        
+        #EXTINF:-1 , VTC3 HD
+        
+         udp://225.1.2.251:30120
+        
+        #EXTINF:-1 , ITV HD
+        
+         udp://225.1.2.250:30120
+        
+        #EXTINF:-1 , VTC1
+        
+         udp://225.1.2.203:30120
+        
+        #EXTINF:-1 , VTC2
+        
+         udp://225.1.2.202:30120
+        
+        #EXTINF:-1 , VTC3
+        
+         udp://225.1.2.201:30120
+        
+        #EXTINF:-1 , VTC4
+        
+         udp://225.1.2.200:30120
+        
+        #EXTINF:-1 , VTC5
+        
+         udp://225.1.2.199:30120
+        
+        #EXTINF:-1 , VTC6
+        
+         udp://225.1.2.198:30120
+        
+        #EXTINF:-1 , VTC7
+        
+         udp://225.1.2.197:30120
+        
+        #EXTINF:-1 , VTC8
+        
+         udp://225.1.2.196:30120
+        
+        #EXTINF:-1 , VTC9
+        
+         udp://225.1.2.195:30120
+        
+        #EXTINF:-1 , VTC10
+        
+         udp://225.1.2.194:30120
+        
+        #EXTINF:-1 , VTC11
+        
+         udp://225.1.2.193:30120
+        
+        #EXTINF:-1 , VTC12
+        
+         udp://225.1.2.192:30120
+        
+        #EXTINF:-1 , ITV
+        
+         udp://225.1.2.189:30120
+        
+        #EXTINF:-1 , VTC14
+        
+         udp://225.1.2.191:30120
+        
+        #EXTINF:-1 , VTC16
+        
+         udp://225.1.2.190:30120
+        
+        #EXTINF:-1 , QUỐC PHÒNG VN HD
+        
+         udp://225.1.2.217:30120
+        
+        #EXTINF:-1 , AN NINH TV
+        
+         udp://225.1.2.169:30120
+        
+        #EXTINF:-1 , VNEWS
+        
+         udp://225.1.1.167:30120
+        
+        #EXTINF:-1 , VTV4
+        
+         udp://225.1.1.248:30120
+        
+        #EXTINF:-1 , VTV5
+        
+         udp://225.1.1.247:30120
+        
+        #EXTINF:-1 , QUỐC HỘI HD
+        
+         udp://225.1.2.148:30120
+        
+        #EXTINF:-1 , VOVTV
+        
+         udp://225.1.2.171:30120
+        
+        #EXTINF:-1 , PHIM HAY
+        
+         udp://225.1.1.222:30120
+        
+        #EXTINF:-1 , NCM
+        
+         udp://225.1.1.225:30120
+        
+        #EXTINF:-1 , SAM
+        
+         udp://225.1.1.224:30120
+        
+        #EXTINF:-1 , VIETTEEN
+        
+         udp://225.1.1.223:30120
+        
+        #EXTINF:-1 , MIỀN TÂY
+        
+         udp://225.1.1.221:30120
+        
+        #EXTINF:-1 , HTV1
+        
+         udp://225.1.1.180:30120
+        
+        #EXTINF:-1 , HTV3
+        
+         udp://225.1.1.178:30120
+        
+        #EXTINF:-1 , HTV4
+        
+         udp://225.1.1.177:30120
+        
+        #EXTINF:-1 , HTVC SHOPPING
+        
+         udp://225.1.1.172:30120
+        
+        #EXTINF:-1 , HTVC  DU LỊCH
+        
+         udp://225.1.1.166:30120
+        
+        #EXTINF:-1 , HTVC PHỤ NỮ
+        
+         udp://225.1.1.171:30120
+        
+        #EXTINF:-1 , HTVC GIA ĐÌNH
+        
+         udp://225.1.1.170:30120
+        
+        #EXTINF:-1 , HTVC THUẦN VIỆT HD
+        
+         udp://225.1.1.186:30120
+        
+        #EXTINF:-1 , HTVC MOVIE HD
+        
+         udp://225.1.1.184:30120
+        
+        #EXTINF:-1 , HTVC MOVIE
+        
+         udp://225.1.1.173:30120
+        
+        #EXTINF:-1 , FBNC HD
+        
+         udp://225.1.1.182:30120
+        
+        #EXTINF:-1 , ĐỒNG NAI 1
+        
+         udp://225.1.1.152:30120
+        
+        #EXTINF:-1 , ĐỒNG NAI 2
+        
+         udp://225.1.1.151:30120
+        
+        #EXTINF:-1 , BTV1
+        
+         udp://225.1.1.150:30120
+        
+        #EXTINF:-1 , BTV2
+        
+         udp://225.1.1.149:30120
+        
+        #EXTINF:-1 , BTV4
+        
+         udp://225.1.1.148:30120
+        
+        #EXTINF:-1 , HÀ GIANG
+        
+         udp://225.1.1.62:30120
+        
+        #EXTINF:-1 , HÀ NAM
+        
+         udp://225.1.1.63:30120
+        
+        #EXTINF:-1 , VĨNH LONG 2
+        
+         udp://225.1.1.154:30120
+        
+        #EXTINF:-1 , HÀ NỘI 2
+        
+         udp://225.1.1.125:30120
+        
+        #EXTINF:-1 , ĐÀ NẴNG 1
+        
+         udp://225.1.1.147:30120
+        
+        #EXTINF:-1 , ĐÀ NẴNG 2
+        
+         udp://225.1.1.146:30120
+        
+        #EXTINF:-1 , VIETNAMNET
+        
+         udp://225.1.1.194:30120
+        
+        #EXTINF:-1 , HITV
+        
+         udp://225.1.1.209:30120
+        
+        #EXTINF:-1 , YOUTV
+        
+         udp://225.1.1.207:30120
+        
+        #EXTINF:-1 , HCATV5
+        
+         udp://225.1.1.210:30120
+        
+        #EXTINF:-1 , ANTG
+        
+         udp://225.1.1.208:30120
+        
+        #EXTINF:-1 , MOV
+        
+         udp://225.1.1.206:30120
+        
+        #EXTINF:-1 , HẢI DƯƠNG
+        
+         udp://225.1.1.158:30120
+        
+        #EXTINF:-1 , HẢI PHÒNG
+        
+         udp://225.1.2.187:30120
+        
+        #EXTINF:-1 , BTV (BÌNH ĐỊNH)
+        
+         udp://225.1.1.145:30120
+        
+        #EXTINF:-1 , AN GIANG
+        
+         udp://225.1.2.173:30120
+        
+        #EXTINF:-1 , TIỀN GIANG
+        
+         udp://225.1.2.170:30120
+        
+        #EXTINF:-1 , CẦN THƠ
+        
+         udp://225.1.1.132:30120
+        
+        #EXTINF:-1 , CVTV1
+        
+         udp://225.1.1.131:30120
+        
+        #EXTINF:-1 , KIÊN GIANG
+        
+         udp://225.1.2.182:30120
+        
+        #EXTINF:-1 , THÁI NGUYÊN
+        
+         udp://225.1.2.179:30120
+        
+        #EXTINF:-1 , NINH THUẬN
+        
+         udp://225.1.2.178:30120
+        
+        #EXTINF:-1 , LÂM ĐỒNG
+        
+         udp://225.1.2.177:30120
+        
+        #EXTINF:-1 , GIA LAI
+        
+         udp://225.1.2.176:30120
+        
+        #EXTINF:-1 , HẬU GIANG
+        
+         udp://225.1.1.157:30120
+        
+        #EXTINF:-1 , TRÀ VINH
+        
+         udp://225.1.2.172:30120
+        
+        #EXTINF:-1 , TUYÊN QUANG
+        
+         udp://225.1.2.188:30120
+        
+        #EXTINF:-1 , BÀ RỊA VŨNG TÀU
+        
+         udp://225.1.2.175:30120
+        
+        #EXTINF:-1 , QUẢNG NINH 1
+        
+         udp://225.1.2.181:30120
+        
+        #EXTINF:-1 , QUẢNG NINH 3
+        
+         udp://225.1.2.180:30120
+        
+        #EXTINF:-1 , THANH HÓA
+        
+         udp://225.1.2.184:30120
+        
+        #EXTINF:-1 , NGHỆ AN
+        
+         udp://225.1.2.183:30120
+        
+        #EXTINF:-1 , NINH BÌNH
+        
+         udp://225.1.2.185:30120
+        
+        #EXTINF:-1 , VTV ĐÀ NẴNG
+        
+         udp://225.1.2.166:30120
+        
+        #EXTINF:-1 , KHÁNH HÒA
+        
+         udp://225.1.1.133:30120
+        
+        #EXTINF:-1 , HÒA BÌNH
+        
+         udp://225.1.2.168:30120
+        
+        #EXTINF:-1 , TÂY NINH
+        
+         udp://225.1.1.130:30120
+        
+        #EXTINF:-1 , BẮC GIANG
+        
+         udp://225.1.1.164:30120
+        
+        #EXTINF:-1 , ĐỒNG THÁP
+        
+         udp://225.1.1.163:30120
+        
+        #EXTINF:-1 , LONG AN
+        
+         udp://225.1.1.162:30120
+        
+        #EXTINF:-1 , HUẾ
+        
+         udp://225.1.1.161:30120
+        
+        #EXTINF:-1 , LẠNG SƠN
+        
+         udp://225.1.1.160:30120
+        
+        #EXTINF:-1 , SÓC TRĂNG
+        
+         udp://225.1.1.159:30120
+        
+        #EXTINF:-1 , BẾN TRE
+        
+         udp://225.1.1.156:30120
+        
+        #EXTINF:-1 , BÌNH THUẬN
+        
+         udp://225.1.1.124:30120
+        
+        #EXTINF:-1 , NAM ĐỊNH
+        
+         udp://225.1.1.120:30120
+        
+        #EXTINF:-1 , LÀO CAI
+        
+         udp://225.1.1.119:30120
+        
+        #EXTINF:-1 , HƯNG YÊN
+        
+         udp://225.1.1.118:30120
+        
+        #EXTINF:-1 , QUẢNG TRỊ
+        
+         udp://225.1.1.117:30120
+        
+        #EXTINF:-1 , THÁI BÌNH
+        
+         udp://225.1.1.99:30120
+        
+        #EXTINF:-1 , SƠN LA
+        
+         udp://225.1.1.98:30120
+        
+        #EXTINF:-1 , HÀ TĨNH
+        
+         udp://225.1.1.75:30120
+        
+        #EXTINF:-1 , ĐIỆN BIÊN
+        
+        #EXTINF:-1 , VTV PHÚ YÊN
+        
+         udp://225.1.1.65:30120
+        
+        #EXTINF:-1 , ĐĂK LĂK
+        
+         udp://225.1.1.64:30120
+        
+        #EXTINF:-1 , QUẢNG BÌNH
+        
+         udp://225.1.2.164:30120
+        
+        #EXTINF:-1 , BẠC LIÊU
+        
+         udp://225.1.1.61:30120
+        
+        #EXTINF:-1 , VTV HUẾ
+        
+         udp://225.1.1.105:30120
+        
+        #EXTINF:-1 , BẮC NINH
+        
+         udp://225.1.1.40:30120
+        
+        #EXTINF:-1 , YÊN BÁI
+        
+         udp://225.1.1.39:30120
+        
+        #EXTINF:-1 , KON TUM
+        
+         udp://225.1.1.36:30120
+        
+        #EXTINF:-1 , CÀ MAU
+        
+         udp://225.1.1.104:30120
+        
+        #EXTINF:-1 , PHÚ THỌ
+        
+         udp://225.1.2.165:30120
