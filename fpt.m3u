@@ -1,702 +1,702 @@
 #EXTM3U
-#EXTINF:-1 , TRUYỀN HÌNH FPT
+#EXTINF:-1 tvg-id="" tvg-logo="FPT_logo.png" , TRUYỀN HÌNH FPT
         
          udp://225.1.1.2:30120
         
-        #EXTINF:-1 , VTV1 HD
+        #EXTINF:-1 tvg-id="VTV 1" , VTV1 HD
         
          udp://225.1.2.249:30120
         
-        #EXTINF:-1 , VTV2
+        #EXTINF:-1 tvg-id="VTV 2" , VTV2
         
          udp://225.1.1.249:30120
         
-        #EXTINF:-1 , VTV3 HD
+        #EXTINF:-1 tvg-id="VTV 3" , VTV3 HD
         
          udp://225.1.2.247:30120
         
-        #EXTINF:-1 , VTV6 HD
+        #EXTINF:-1 tvg-id="VTV 6" , VTV6 HD
         
          udp://225.1.2.245:30120
         
-        #EXTINF:-1 , VTV9
+        #EXTINF:-1 tvg-id="VTV 9" , VTV9
         
          udp://225.1.1.153:30120
         
-        #EXTINF:-1 , HTV2 HD
+        #EXTINF:-1 tvg-id="" , HTV2 HD
         
          udp://225.1.1.193:30120
         
-        #EXTINF:-1 , HTV7 HD
+        #EXTINF:-1 tvg-id="" , HTV7 HD
         
          udp://225.1.1.192:30120
         
-        #EXTINF:-1 , HTV9 HD
+        #EXTINF:-1 tvg-id="" , HTV9 HD
         
          udp://225.1.1.190:30120
         
-        #EXTINF:-1 , HTVC THỂ THAO
+        #EXTINF:-1 tvg-id="" , HTVC THỂ THAO
         
          udp://225.1.1.116:30120
         
-        #EXTINF:-1 , VĨNH LONG 1
+        #EXTINF:-1 tvg-id="" , VĨNH LONG 1
         
          udp://225.1.1.155:30120
         
-        #EXTINF:-1 , HÀ NỘI 1
+        #EXTINF:-1 tvg-id="" , HÀ NỘI 1
         
          udp://225.1.2.186:30120
         
-        #EXTINF:-1 , STAR MOVIES HD
+        #EXTINF:-1 tvg-id="StarMovie HD" , STAR MOVIES HD
         
          udp://225.1.2.239:30120
         
-        #EXTINF:-1 , HBO HD 
+        #EXTINF:-1 tvg-id="HBO" , HBO HD 
         
          udp://225.1.2.233:30120
         
-        #EXTINF:-1 , CINEMAX
+        #EXTINF:-1 tvg-id="Cinemax" , CINEMAX
         
          udp://225.1.1.230:30120
         
-        #EXTINF:-1 , AXN HD
+        #EXTINF:-1 tvg-id="" , AXN HD
         
          udp://225.1.2.225:30120
         
-        #EXTINF:-1 , TRAVEL - LIVING
+        #EXTINF:-1 tvg-id="" , TRAVEL - LIVING
         
          udp://225.1.1.236:30120
         
-        #EXTINF:-1 , DISCOVERY
+        #EXTINF:-1 tvg-id="Discovery" , DISCOVERY
         
          udp://225.1.1.238:30120
         
-        #EXTINF:-1 , DISCOVERY WORLD HD
+        #EXTINF:-1 tvg-id="" , DISCOVERY WORLD HD
         
          udp://225.1.2.223:30120
         
-        #EXTINF:-1 , NATIONAL GEOGRAPHIC
+        #EXTINF:-1 tvg-id="National Geographic HD" , NATIONAL GEOGRAPHIC
         
          udp://225.1.2.235:30120
        
-        #EXTINF:-1 , ANIMAL PLANET
+        #EXTINF:-1 tvg-id="Animal Planet" , ANIMAL PLANET
         
          udp://225.1.1.231:30120
         
-        #EXTINF:-1 , CARTOON NETWORK HD
+        #EXTINF:-1 tvg-id="" , CARTOON NETWORK HD
         
          udp://225.1.2.231:30120
         
-        #EXTINF:-1 , DISNEY
+        #EXTINF:-1 tvg-id="" , DISNEY
         
          udp://225.1.1.232:30120
         
-        #EXTINF:-1 , DISNEY JUNIOR
+        #EXTINF:-1 tvg-id="" , DISNEY JUNIOR
         
          udp://225.1.1.233:30120
         
-        #EXTINF:-1 , STAR WORLD HD
+        #EXTINF:-1 tvg-id="Star World HD" , STAR WORLD HD
         
          udp://225.1.2.237:30120
         
-        #EXTINF:-1 , FASHION TV HD
+        #EXTINF:-1 tvg-id="" , FASHION TV HD
         
          udp://225.1.2.227:30120
         
-        #EXTINF:-1 , MTV
+        #EXTINF:-1 tvg-id="" , MTV
         
          udp://225.1.1.245:30120
         
-        #EXTINF:-1 , CHANNEL V HD
+        #EXTINF:-1 tvg-id="Channel V HD" , CHANNEL V HD
         
          udp://225.1.1.188:30120
         
-        #EXTINF:-1 , BLOOMBERG
+        #EXTINF:-1 tvg-id="" , BLOOMBERG
         
          udp://225.1.1.227:30120
         
-        #EXTINF:-1 , CNN
+        #EXTINF:-1 tvg-id="" , CNN
         
          udp://225.1.1.242:30120
         
-        #EXTINF:-1 , ASIAN FOOD CHANNEL
+        #EXTINF:-1 tvg-id="" , ASIAN FOOD CHANNEL
         
          udp://225.1.1.198:30120
         
-        #EXTINF:-1 , DIVA
+        #EXTINF:-1 tvg-id="" , DIVA
         
          udp://225.1.1.199:30120
         
-        #EXTINF:-1 , DA VINCI
+        #EXTINF:-1 tvg-id="" , DA VINCI
         
          udp://225.1.1.197:30120
         
-        #EXTINF:-1 , ARIRANG
+        #EXTINF:-1 tvg-id="" , ARIRANG
         
          udp://225.1.1.201:30120
         
-        #EXTINF:-1 , CHANNEL NEWS ASIA
+        #EXTINF:-1 tvg-id="" , CHANNEL NEWS ASIA
         
          udp://225.1.1.202:30120
         
-        #EXTINF:-1 , TV5MONDE
+        #EXTINF:-1 tvg-id="" , TV5MONDE
         
          udp://225.1.1.200:30120
         
-        #EXTINF:-1 , DW
+        #EXTINF:-1 tvg-id="" , DW
         
          udp://225.1.1.203:30120
         
-        #EXTINF:-1 , NHK WORLD
+        #EXTINF:-1 tvg-id="" , NHK WORLD
         
          udp://225.1.1.196:30120
         
-        #EXTINF:-1 , OUTDOOR CHANNEL HD
+        #EXTINF:-1 tvg-id="" , OUTDOOR CHANNEL HD
         
          udp://225.1.2.215:30120
         
-        #EXTINF:-1 , FOX SPORTS 2
+        #EXTINF:-1 tvg-id="FOX Sports 2 HD" , FOX SPORTS 2
         
          udp://225.1.1.241:30120
         
-        #EXTINF:-1 , FOX SPORTS
+        #EXTINF:-1 tvg-id="" , FOX SPORTS
         
          udp://225.1.1.239:30120
         
-        #EXTINF:-1 , FOX SPORTS HD
+        #EXTINF:-1 tvg-id="FOX Sports HD" , FOX SPORTS HD
         
          udp://225.1.2.229:30120
         
-        #EXTINF:-1 , K+1 HD
+        #EXTINF:-1 tvg-id="" , K+1 HD
         
          udp://225.1.1.134:30120?drm=1
         
-        #EXTINF:-1 , K+ NHỊP SỐNG HD
+        #EXTINF:-1 tvg-id="" , K+ NHỊP SỐNG HD
         
          udp://225.1.1.136:30120?drm=1
         
-        #EXTINF:-1 , K+ PHÁI MẠNH HD
+        #EXTINF:-1 tvg-id="" , K+ PHÁI MẠNH HD
         
          udp://225.1.1.14:30120?drm=1
         
-        #EXTINF:-1 , K+ PHONG CÁCH HD
+        #EXTINF:-1 tvg-id="" , K+ PHONG CÁCH HD
         
          udp://225.1.1.137:30120?drm=1
         
-        #EXTINF:-1 , GIẢI TRÍ TV
+        #EXTINF:-1 tvg-id="" , GIẢI TRÍ TV
         
          udp://225.1.2.150:30120
         
-        #EXTINF:-1 , PHIM VIỆT
+        #EXTINF:-1 tvg-id="" , PHIM VIỆT
         
          udp://225.1.2.159:30120
         
-        #EXTINF:-1 , THỂ THAO TV
+        #EXTINF:-1 tvg-id="" , THỂ THAO TV
         
          udp://225.1.2.158:30120
         
-        #EXTINF:-1 , M4ME
+        #EXTINF:-1 tvg-id="" , M4ME
         
          udp://225.1.2.153:30120
         
-        #EXTINF:-1 , E CHANNEL
+        #EXTINF:-1 tvg-id="" , E CHANNEL
         
          udp://225.1.2.156:30120
         
-        #EXTINF:-1 , VTVCAB 6
+        #EXTINF:-1 tvg-id="" , VTVCAB 6
         
          udp://225.1.1.254:30120
         
-        #EXTINF:-1 , D DRAMAS
+        #EXTINF:-1 tvg-id="" , D DRAMAS
         
          udp://225.1.2.157:30120
         
-        #EXTINF:-1 , BIBI
+        #EXTINF:-1 tvg-id="" , BIBI
         
          udp://225.1.2.161:30120
         
-        #EXTINF:-1 , INFO TV
+        #EXTINF:-1 tvg-id="" , INFO TV
         
          udp://225.1.2.154:30120
         
-        #EXTINF:-1 , O2 TV
+        #EXTINF:-1 tvg-id="" , O2 TV
         
          udp://225.1.2.152:30120
         
-        #EXTINF:-1 , TV SHOPPING
+        #EXTINF:-1 tvg-id="" , TV SHOPPING
         
          udp://225.1.1.252:30120
         
-        #EXTINF:-1 , STYLE TV
+        #EXTINF:-1 tvg-id="" , STYLE TV
         
          udp://225.1.2.155:30120
         
-        #EXTINF:-1 , VTVCAB 14
+        #EXTINF:-1 tvg-id="" , VTVCAB 14
         
          udp://225.1.1.253:30120
         
-        #EXTINF:-1 , INVEST TV
+        #EXTINF:-1 tvg-id="" , INVEST TV
         
          udp://225.1.1.251:30120
         
-        #EXTINF:-1 , BÓNG ĐÁ TV
+        #EXTINF:-1 tvg-id="Bong da TV HD" , BÓNG ĐÁ TV
         
          udp://225.1.2.160:30120
         
-        #EXTINF:-1 , VTVCAB 17
+        #EXTINF:-1 tvg-id="" , VTVCAB 17
         
          udp://225.1.2.151:30120
         
-        #EXTINF:-1 , VFAMILY
+        #EXTINF:-1 tvg-id="" , VFAMILY
         
          udp://225.1.1.15:30120
         
-        #EXTINF:-1 , THỂ THAO TV HD
+        #EXTINF:-1 tvg-id="The thao TV HD" , THỂ THAO TV HD
         
          udp://225.1.2.241:30120
         
-        #EXTINF:-1 , BÓNG ĐÁ TV HD
+        #EXTINF:-1 tvg-id="Bong da TV HD" , BÓNG ĐÁ TV HD
         
          udp://225.1.2.243:30120
         
-        #EXTINF:-1 , VTC1 HD
+        #EXTINF:-1 tvg-id="VTC-HD 1" , VTC1 HD
         
          udp://225.1.2.254:30120
         
-        #EXTINF:-1 , VTC HD2
+        #EXTINF:-1 tvg-id="" , VTC HD2
         
          udp://225.1.2.253:30120
         
-        #EXTINF:-1 , VTC HD3
+        #EXTINF:-1 tvg-id="" , VTC HD3
         
          udp://225.1.2.252:30120
         
-        #EXTINF:-1 , VTC3 HD
+        #EXTINF:-1 tvg-id="" , VTC3 HD
         
          udp://225.1.2.251:30120
         
-        #EXTINF:-1 , ITV HD
+        #EXTINF:-1 tvg-id="" , ITV HD
         
          udp://225.1.2.250:30120
         
-        #EXTINF:-1 , VTC1
+        #EXTINF:-1 tvg-id="VTC 1" , VTC1
         
          udp://225.1.2.203:30120
         
-        #EXTINF:-1 , VTC2
+        #EXTINF:-1 tvg-id="VTC 2" , VTC2
         
          udp://225.1.2.202:30120
         
-        #EXTINF:-1 , VTC3
+        #EXTINF:-1 tvg-id="VTC 3" , VTC3
         
          udp://225.1.2.201:30120
         
-        #EXTINF:-1 , VTC4
+        #EXTINF:-1 tvg-id="VTC 4" , VTC4
         
          udp://225.1.2.200:30120
         
-        #EXTINF:-1 , VTC5
+        #EXTINF:-1 tvg-id="VTC 5" , VTC5
         
          udp://225.1.2.199:30120
         
-        #EXTINF:-1 , VTC6
+        #EXTINF:-1 tvg-id="VTC 6" , VTC6
         
          udp://225.1.2.198:30120
         
-        #EXTINF:-1 , VTC7
+        #EXTINF:-1 tvg-id="VTC 7" , VTC7
         
          udp://225.1.2.197:30120
         
-        #EXTINF:-1 , VTC8
+        #EXTINF:-1 tvg-id="VTC 8" , VTC8
         
          udp://225.1.2.196:30120
         
-        #EXTINF:-1 , VTC9
+        #EXTINF:-1 tvg-id="VTC 9" , VTC9
         
          udp://225.1.2.195:30120
         
-        #EXTINF:-1 , VTC10
+        #EXTINF:-1 tvg-id="VTC 10" , VTC10
         
          udp://225.1.2.194:30120
         
-        #EXTINF:-1 , VTC11
+        #EXTINF:-1 tvg-id="VTC 11" , VTC11
         
          udp://225.1.2.193:30120
         
-        #EXTINF:-1 , VTC12
+        #EXTINF:-1 tvg-id="" , VTC12
         
          udp://225.1.2.192:30120
         
-        #EXTINF:-1 , ITV
+        #EXTINF:-1 tvg-id="" , ITV
         
          udp://225.1.2.189:30120
         
-        #EXTINF:-1 , VTC14
+        #EXTINF:-1 tvg-id="" , VTC14
         
          udp://225.1.2.191:30120
         
-        #EXTINF:-1 , VTC16
+        #EXTINF:-1 tvg-id="" , VTC16
         
          udp://225.1.2.190:30120
         
-        #EXTINF:-1 , QUỐC PHÒNG VN HD
+        #EXTINF:-1 tvg-id="" , QUỐC PHÒNG VN HD
         
          udp://225.1.2.217:30120
         
-        #EXTINF:-1 , AN NINH TV
+        #EXTINF:-1 tvg-id="" , AN NINH TV
         
          udp://225.1.2.169:30120
         
-        #EXTINF:-1 , VNEWS
+        #EXTINF:-1 tvg-id="" , VNEWS
         
          udp://225.1.1.167:30120
         
-        #EXTINF:-1 , VTV4
+        #EXTINF:-1 tvg-id="" , VTV4
         
          udp://225.1.1.248:30120
         
-        #EXTINF:-1 , VTV5
+        #EXTINF:-1 tvg-id="" , VTV5
         
          udp://225.1.1.247:30120
         
-        #EXTINF:-1 , QUỐC HỘI HD
+        #EXTINF:-1 tvg-id="" , QUỐC HỘI HD
         
          udp://225.1.2.148:30120
         
-        #EXTINF:-1 , VOVTV
+        #EXTINF:-1 tvg-id="" , VOVTV
         
          udp://225.1.2.171:30120
         
-        #EXTINF:-1 , PHIM HAY
+        #EXTINF:-1 tvg-id="" , PHIM HAY
         
          udp://225.1.1.222:30120
         
-        #EXTINF:-1 , NCM
+        #EXTINF:-1 tvg-id="" , NCM
         
          udp://225.1.1.225:30120
         
-        #EXTINF:-1 , SAM
+        #EXTINF:-1 tvg-id="" , SAM
         
          udp://225.1.1.224:30120
         
-        #EXTINF:-1 , VIETTEEN
+        #EXTINF:-1 tvg-id="" , VIETTEEN
         
          udp://225.1.1.223:30120
         
-        #EXTINF:-1 , MIỀN TÂY
+        #EXTINF:-1 tvg-id="" , MIỀN TÂY
         
          udp://225.1.1.221:30120
         
-        #EXTINF:-1 , HTV1
+        #EXTINF:-1 tvg-id="" , HTV1
         
          udp://225.1.1.180:30120
         
-        #EXTINF:-1 , HTV3
+        #EXTINF:-1 tvg-id="" , HTV3
         
          udp://225.1.1.178:30120
         
-        #EXTINF:-1 , HTV4
+        #EXTINF:-1 tvg-id="" , HTV4
         
          udp://225.1.1.177:30120
         
-        #EXTINF:-1 , HTVC SHOPPING
+        #EXTINF:-1 tvg-id="" , HTVC SHOPPING
         
          udp://225.1.1.172:30120
         
-        #EXTINF:-1 , HTVC  DU LỊCH
+        #EXTINF:-1 tvg-id="" , HTVC  DU LỊCH
         
          udp://225.1.1.166:30120
         
-        #EXTINF:-1 , HTVC PHỤ NỮ
+        #EXTINF:-1 tvg-id="" , HTVC PHỤ NỮ
         
          udp://225.1.1.171:30120
         
-        #EXTINF:-1 , HTVC GIA ĐÌNH
+        #EXTINF:-1 tvg-id="" , HTVC GIA ĐÌNH
         
          udp://225.1.1.170:30120
         
-        #EXTINF:-1 , HTVC THUẦN VIỆT HD
+        #EXTINF:-1 tvg-id="" , HTVC THUẦN VIỆT HD
         
          udp://225.1.1.186:30120
         
-        #EXTINF:-1 , HTVC MOVIE HD
+        #EXTINF:-1 tvg-id="" , HTVC MOVIE HD
         
          udp://225.1.1.184:30120
         
-        #EXTINF:-1 , HTVC MOVIE
+        #EXTINF:-1 tvg-id="" , HTVC MOVIE
         
          udp://225.1.1.173:30120
         
-        #EXTINF:-1 , FBNC HD
+        #EXTINF:-1 tvg-id="" , FBNC HD
         
          udp://225.1.1.182:30120
         
-        #EXTINF:-1 , ĐỒNG NAI 1
+        #EXTINF:-1 tvg-id="" , ĐỒNG NAI 1
         
          udp://225.1.1.152:30120
         
-        #EXTINF:-1 , ĐỒNG NAI 2
+        #EXTINF:-1 tvg-id="" , ĐỒNG NAI 2
         
          udp://225.1.1.151:30120
         
-        #EXTINF:-1 , BTV1
+        #EXTINF:-1 tvg-id="" , BTV1
         
          udp://225.1.1.150:30120
         
-        #EXTINF:-1 , BTV2
+        #EXTINF:-1 tvg-id="" , BTV2
         
          udp://225.1.1.149:30120
         
-        #EXTINF:-1 , BTV4
+        #EXTINF:-1 tvg-id="" , BTV4
         
          udp://225.1.1.148:30120
         
-        #EXTINF:-1 , HÀ GIANG
+        #EXTINF:-1 tvg-id="" , HÀ GIANG
         
          udp://225.1.1.62:30120
         
-        #EXTINF:-1 , HÀ NAM
+        #EXTINF:-1 tvg-id="" , HÀ NAM
         
          udp://225.1.1.63:30120
         
-        #EXTINF:-1 , VĨNH LONG 2
+        #EXTINF:-1 tvg-id="" , VĨNH LONG 2
         
          udp://225.1.1.154:30120
         
-        #EXTINF:-1 , HÀ NỘI 2
+        #EXTINF:-1 tvg-id="" , HÀ NỘI 2
         
          udp://225.1.1.125:30120
         
-        #EXTINF:-1 , ĐÀ NẴNG 1
+        #EXTINF:-1 tvg-id="" , ĐÀ NẴNG 1
         
          udp://225.1.1.147:30120
         
-        #EXTINF:-1 , ĐÀ NẴNG 2
+        #EXTINF:-1 tvg-id="" , ĐÀ NẴNG 2
         
          udp://225.1.1.146:30120
         
-        #EXTINF:-1 , VIETNAMNET
+        #EXTINF:-1 tvg-id="" , VIETNAMNET
         
          udp://225.1.1.194:30120
         
-        #EXTINF:-1 , HITV
+        #EXTINF:-1 tvg-id="" , HITV
         
          udp://225.1.1.209:30120
         
-        #EXTINF:-1 , YOUTV
+        #EXTINF:-1 tvg-id="" , YOUTV
         
          udp://225.1.1.207:30120
         
-        #EXTINF:-1 , HCATV5
+        #EXTINF:-1 tvg-id="" , HCATV5
         
          udp://225.1.1.210:30120
         
-        #EXTINF:-1 , ANTG
+        #EXTINF:-1 tvg-id="" , ANTG
         
          udp://225.1.1.208:30120
         
-        #EXTINF:-1 , MOV
+        #EXTINF:-1 tvg-id="" , MOV
         
          udp://225.1.1.206:30120
         
-        #EXTINF:-1 , HẢI DƯƠNG
+        #EXTINF:-1 tvg-id="" , HẢI DƯƠNG
         
          udp://225.1.1.158:30120
         
-        #EXTINF:-1 , HẢI PHÒNG
+        #EXTINF:-1 tvg-id="" , HẢI PHÒNG
         
          udp://225.1.2.187:30120
         
-        #EXTINF:-1 , BTV (BÌNH ĐỊNH)
+        #EXTINF:-1 tvg-id="" , BTV (BÌNH ĐỊNH)
         
          udp://225.1.1.145:30120
         
-        #EXTINF:-1 , AN GIANG
+        #EXTINF:-1 tvg-id="" , AN GIANG
         
          udp://225.1.2.173:30120
         
-        #EXTINF:-1 , TIỀN GIANG
+        #EXTINF:-1 tvg-id="" , TIỀN GIANG
         
          udp://225.1.2.170:30120
         
-        #EXTINF:-1 , CẦN THƠ
+        #EXTINF:-1 tvg-id="" , CẦN THƠ
         
          udp://225.1.1.132:30120
         
-        #EXTINF:-1 , CVTV1
+        #EXTINF:-1 tvg-id="" , CVTV1
         
          udp://225.1.1.131:30120
         
-        #EXTINF:-1 , KIÊN GIANG
+        #EXTINF:-1 tvg-id="" , KIÊN GIANG
         
          udp://225.1.2.182:30120
         
-        #EXTINF:-1 , THÁI NGUYÊN
+        #EXTINF:-1 tvg-id="" , THÁI NGUYÊN
         
          udp://225.1.2.179:30120
         
-        #EXTINF:-1 , NINH THUẬN
+        #EXTINF:-1 tvg-id="" , NINH THUẬN
         
          udp://225.1.2.178:30120
         
-        #EXTINF:-1 , LÂM ĐỒNG
+        #EXTINF:-1 tvg-id="" , LÂM ĐỒNG
         
          udp://225.1.2.177:30120
         
-        #EXTINF:-1 , GIA LAI
+        #EXTINF:-1 tvg-id="" , GIA LAI
         
          udp://225.1.2.176:30120
         
-        #EXTINF:-1 , HẬU GIANG
+        #EXTINF:-1 tvg-id="" , HẬU GIANG
         
          udp://225.1.1.157:30120
         
-        #EXTINF:-1 , TRÀ VINH
+        #EXTINF:-1 tvg-id="" , TRÀ VINH
         
          udp://225.1.2.172:30120
         
-        #EXTINF:-1 , TUYÊN QUANG
+        #EXTINF:-1 tvg-id="" , TUYÊN QUANG
         
          udp://225.1.2.188:30120
         
-        #EXTINF:-1 , BÀ RỊA VŨNG TÀU
+        #EXTINF:-1 tvg-id="" , BÀ RỊA VŨNG TÀU
         
          udp://225.1.2.175:30120
         
-        #EXTINF:-1 , QUẢNG NINH 1
+        #EXTINF:-1 tvg-id="" , QUẢNG NINH 1
         
          udp://225.1.2.181:30120
         
-        #EXTINF:-1 , QUẢNG NINH 3
+        #EXTINF:-1 tvg-id="" , QUẢNG NINH 3
         
          udp://225.1.2.180:30120
         
-        #EXTINF:-1 , THANH HÓA
+        #EXTINF:-1 tvg-id="" , THANH HÓA
         
          udp://225.1.2.184:30120
         
-        #EXTINF:-1 , NGHỆ AN
+        #EXTINF:-1 tvg-id="" , NGHỆ AN
         
          udp://225.1.2.183:30120
         
-        #EXTINF:-1 , NINH BÌNH
+        #EXTINF:-1 tvg-id="" , NINH BÌNH
         
          udp://225.1.2.185:30120
         
-        #EXTINF:-1 , VTV ĐÀ NẴNG
+        #EXTINF:-1 tvg-id="" , VTV ĐÀ NẴNG
         
          udp://225.1.2.166:30120
         
-        #EXTINF:-1 , KHÁNH HÒA
+        #EXTINF:-1 tvg-id="" , KHÁNH HÒA
         
          udp://225.1.1.133:30120
         
-        #EXTINF:-1 , HÒA BÌNH
+        #EXTINF:-1 tvg-id="" , HÒA BÌNH
         
          udp://225.1.2.168:30120
         
-        #EXTINF:-1 , TÂY NINH
+        #EXTINF:-1 tvg-id="" , TÂY NINH
         
          udp://225.1.1.130:30120
         
-        #EXTINF:-1 , BẮC GIANG
+        #EXTINF:-1 tvg-id="" , BẮC GIANG
         
          udp://225.1.1.164:30120
         
-        #EXTINF:-1 , ĐỒNG THÁP
+        #EXTINF:-1 tvg-id="" , ĐỒNG THÁP
         
          udp://225.1.1.163:30120
         
-        #EXTINF:-1 , LONG AN
+        #EXTINF:-1 tvg-id="" , LONG AN
         
          udp://225.1.1.162:30120
         
-        #EXTINF:-1 , HUẾ
+        #EXTINF:-1 tvg-id="" , HUẾ
         
          udp://225.1.1.161:30120
         
-        #EXTINF:-1 , LẠNG SƠN
+        #EXTINF:-1 tvg-id="" , LẠNG SƠN
         
          udp://225.1.1.160:30120
         
-        #EXTINF:-1 , SÓC TRĂNG
+        #EXTINF:-1 tvg-id="" , SÓC TRĂNG
         
          udp://225.1.1.159:30120
         
-        #EXTINF:-1 , BẾN TRE
+        #EXTINF:-1 tvg-id="" , BẾN TRE
         
          udp://225.1.1.156:30120
         
-        #EXTINF:-1 , BÌNH THUẬN
+        #EXTINF:-1 tvg-id="" , BÌNH THUẬN
         
          udp://225.1.1.124:30120
         
-        #EXTINF:-1 , NAM ĐỊNH
+        #EXTINF:-1 tvg-id="" , NAM ĐỊNH
         
          udp://225.1.1.120:30120
         
-        #EXTINF:-1 , LÀO CAI
+        #EXTINF:-1 tvg-id="" , LÀO CAI
         
          udp://225.1.1.119:30120
         
-        #EXTINF:-1 , HƯNG YÊN
+        #EXTINF:-1 tvg-id="" , HƯNG YÊN
         
          udp://225.1.1.118:30120
         
-        #EXTINF:-1 , QUẢNG TRỊ
+        #EXTINF:-1 tvg-id="" , QUẢNG TRỊ
         
          udp://225.1.1.117:30120
         
-        #EXTINF:-1 , THÁI BÌNH
+        #EXTINF:-1 tvg-id="" , THÁI BÌNH
         
          udp://225.1.1.99:30120
         
-        #EXTINF:-1 , SƠN LA
+        #EXTINF:-1 tvg-id="" , SƠN LA
         
          udp://225.1.1.98:30120
         
-        #EXTINF:-1 , HÀ TĨNH
+        #EXTINF:-1 tvg-id="" , HÀ TĨNH
         
          udp://225.1.1.75:30120
         
-        #EXTINF:-1 , ĐIỆN BIÊN
+        #EXTINF:-1 tvg-id="" , ĐIỆN BIÊN
         
-        #EXTINF:-1 , VTV PHÚ YÊN
+        #EXTINF:-1 tvg-id="" , VTV PHÚ YÊN
         
          udp://225.1.1.65:30120
         
-        #EXTINF:-1 , ĐĂK LĂK
+        #EXTINF:-1 tvg-id="" , ĐĂK LĂK
         
          udp://225.1.1.64:30120
         
-        #EXTINF:-1 , QUẢNG BÌNH
+        #EXTINF:-1 tvg-id="" , QUẢNG BÌNH
         
          udp://225.1.2.164:30120
         
-        #EXTINF:-1 , BẠC LIÊU
+        #EXTINF:-1 tvg-id="" , BẠC LIÊU
         
          udp://225.1.1.61:30120
         
-        #EXTINF:-1 , VTV HUẾ
+        #EXTINF:-1 tvg-id="" , VTV HUẾ
         
          udp://225.1.1.105:30120
         
-        #EXTINF:-1 , BẮC NINH
+        #EXTINF:-1 tvg-id="" , BẮC NINH
         
          udp://225.1.1.40:30120
         
-        #EXTINF:-1 , YÊN BÁI
+        #EXTINF:-1 tvg-id="" , YÊN BÁI
         
          udp://225.1.1.39:30120
         
-        #EXTINF:-1 , KON TUM
+        #EXTINF:-1 tvg-id="" , KON TUM
         
          udp://225.1.1.36:30120
         
-        #EXTINF:-1 , CÀ MAU
+        #EXTINF:-1 tvg-id="" , CÀ MAU
         
          udp://225.1.1.104:30120
         
-        #EXTINF:-1 , PHÚ THỌ
+        #EXTINF:-1 tvg-id="" , PHÚ THỌ
         
          udp://225.1.2.165:30120
