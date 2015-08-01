@@ -263,11 +263,11 @@
         
          udp://225.1.2.254:30120
         
-        #EXTINF:-1 tvg-id="VTC-HD 2" , VTC HD2
+        #EXTINF:-1 tvg-id="VTC HD2" , VTC HD2
         
          udp://225.1.2.253:30120
         
-        #EXTINF:-1 tvg-id="VTC-HD 3" , VTC HD3
+        #EXTINF:-1 tvg-id="VTC HD3" , VTC HD3
         
          udp://225.1.2.252:30120
         
