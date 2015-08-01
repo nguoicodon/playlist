@@ -27,11 +27,11 @@
         
          udp://225.1.1.193:30120
         
-        #EXTINF:-1 tvg-id="HTV7" , HTV7 HD
+        #EXTINF:-1 tvg-id="HTV7 HD" , HTV7 HD
         
          udp://225.1.1.192:30120
         
-        #EXTINF:-1 tvg-id="HTV9" , HTV9 HD
+        #EXTINF:-1 tvg-id="HTV9 HD" , HTV9 HD
         
          udp://225.1.1.190:30120
         
@@ -167,51 +167,51 @@
         
          udp://225.1.2.229:30120
         
-        #EXTINF:-1 tvg-id="K+1" , K+1 HD
+        #EXTINF:-1 tvg-id="K+ 1" , K+1 HD
         
          udp://225.1.1.134:30120?drm=1
         
-        #EXTINF:-1 tvg-id="" , K+ NHỊP SỐNG HD
+        #EXTINF:-1 tvg-id="K+ NS" , K+ NHỊP SỐNG HD
         
          udp://225.1.1.136:30120?drm=1
         
-        #EXTINF:-1 tvg-id="" , K+ PHÁI MẠNH HD
+        #EXTINF:-1 tvg-id="K+ PM" , K+ PHÁI MẠNH HD
         
          udp://225.1.1.14:30120?drm=1
         
-        #EXTINF:-1 tvg-id="" , K+ PHONG CÁCH HD
+        #EXTINF:-1 tvg-id="K+ PC" , K+ PHONG CÁCH HD
         
          udp://225.1.1.137:30120?drm=1
         
-        #EXTINF:-1 tvg-id="" , GIẢI TRÍ TV
+        #EXTINF:-1 tvg-id="VTVcab 1 - Giai Tri TV" , GIẢI TRÍ TV
         
          udp://225.1.2.150:30120
         
-        #EXTINF:-1 tvg-id="" , PHIM VIỆT
+        #EXTINF:-1 tvg-id="VTVcab 2 - Phim Viet" , PHIM VIỆT
         
          udp://225.1.2.159:30120
         
-        #EXTINF:-1 tvg-id="" , THỂ THAO TV
+        #EXTINF:-1 tvg-id="VTVcab 3 - The Thao TV" , THỂ THAO TV
         
          udp://225.1.2.158:30120
         
-        #EXTINF:-1 tvg-id="" , M4ME
+        #EXTINF:-1 tvg-id="VTVcab 4" , M4ME
         
          udp://225.1.2.153:30120
         
-        #EXTINF:-1 tvg-id="" , E CHANNEL
+        #EXTINF:-1 tvg-id="VTVcab 5 - E Channel" , E CHANNEL
         
          udp://225.1.2.156:30120
         
-        #EXTINF:-1 tvg-id="" , VTVCAB 6
+        #EXTINF:-1 tvg-id="VTVcab 6 - Hay TV" , VTVCAB 6
         
          udp://225.1.1.254:30120
         
-        #EXTINF:-1 tvg-id="" , D DRAMAS
+        #EXTINF:-1 tvg-id="VTVcab 7 - D Drama" , D DRAMAS
         
          udp://225.1.2.157:30120
         
-        #EXTINF:-1 tvg-id="" , BIBI
+        #EXTINF:-1 tvg-id="VTVcab 8 - BiBi" , BIBI
         
          udp://225.1.2.161:30120
         
@@ -219,7 +219,7 @@
         
          udp://225.1.2.154:30120
         
-        #EXTINF:-1 tvg-id="" , O2 TV
+        #EXTINF:-1 tvg-id="VTVcab 10 - O2TV" , O2 TV
         
          udp://225.1.2.152:30120
         
@@ -227,7 +227,7 @@
         
          udp://225.1.1.252:30120
         
-        #EXTINF:-1 tvg-id="" , STYLE TV
+        #EXTINF:-1 tvg-id="VTVcab 12 - Style TV HD" , STYLE TV
         
          udp://225.1.2.155:30120
         
@@ -235,7 +235,7 @@
         
          udp://225.1.1.253:30120
         
-        #EXTINF:-1 tvg-id="" , INVEST TV
+        #EXTINF:-1 tvg-id="VTVcab 15 - Invest TV" , INVEST TV
         
          udp://225.1.1.251:30120
         
@@ -243,7 +243,7 @@
         
          udp://225.1.2.160:30120
         
-        #EXTINF:-1 tvg-id="" , VTVCAB 17
+        #EXTINF:-1 tvg-id="VTVcab 17-Yeah1 TV" , VTVCAB 17
         
          udp://225.1.2.151:30120
         
@@ -347,7 +347,7 @@
         
          udp://225.1.2.169:30120
         
-        #EXTINF:-1 tvg-id="VNEWS" , VNEWS
+        #EXTINF:-1 tvg-id="TTXVN (VNEWS)" , VNEWS
         
          udp://225.1.1.167:30120
         
@@ -415,7 +415,7 @@
         
          udp://225.1.1.170:30120
         
-        #EXTINF:-1 tvg-id="Thuần Việt" , HTVC THUẦN VIỆT HD
+        #EXTINF:-1 tvg-id="HTVC Thuần Việt HD" , HTVC THUẦN VIỆT HD
         
          udp://225.1.1.186:30120
         
