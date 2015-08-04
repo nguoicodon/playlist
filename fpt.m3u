@@ -79,7 +79,7 @@
         
          udp://225.1.1.238:30120
         
-        #EXTINF:-1 tvg-id="" , DISCOVERY WORLD HD
+        #EXTINF:-1 tvg-id="Discovery World HD" , DISCOVERY WORLD HD
         
          udp://225.1.2.223:30120
         
