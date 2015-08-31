@@ -35,7 +35,7 @@
         
          udp://225.1.1.190:30120
 		 
-		 #EXTINF:-1 tvg-id="HTVC Thuần Việt HD" , HTVC THUẦN VIỆT HD
+	#EXTINF:-1 tvg-id="HTVC Thuần Việt HD" , HTVC THUẦN VIỆT HD
         
          udp://225.1.1.186:30120
         
@@ -47,7 +47,7 @@
         
          udp://225.1.1.116:30120
         
-        #EXTINF:-1 tvg-id="THVL" , VĨNH LONG 1
+        #EXTINF:-1 tvg-id="THVL1" , VĨNH LONG 1
         
          udp://225.1.1.155:30120
         
