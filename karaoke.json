@@ -1,4 +1,144 @@
-  ],
+{
+  "catalogues": [
+    {
+      "id": 0,
+      "name": "Karaoke Vietnam",
+      "categorie": [
+        {
+          "id": 0,
+          "name": "Nhac Tre",
+          "icon": "nhactre.png",
+          "playlist": [
+            {
+              "name": "Nhac Tre",
+              "id": "playlist/PLsY5yje8wya0EhfT2JIsDpCNUGcej7FTQ/"
+            },
+            {
+              "name": "Karaoke Beat HD Nhạc Trẻ",
+              "id": "playlist/PLsY5yje8wya0EhfT2JIsDpCNUGcej7FTQ/"
+            },
+            {
+              "name": "Nhac Tre Nữ",
+              "id": "playlist/PLsY5yje8wya2v8axbrYMiLMZZG8fCKeDX/"
+            },
+            {
+              "name": "Lương Bích Hữu Karaoke Beat",
+              "id": "playlist/PLsY5yje8wya3hbMDttB9pffg4UCGJ11CX/"
+            },
+            {
+              "name": "Nhac Tre Nam",
+              "id": "playlist/PLsY5yje8wya2zdA71dRw5-Ln1oNuWRSHt/"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Nhac Vang",
+          "icon": "Tuyen-Tap-Nhac-Vang-Hay-Nhat.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Nhac Que Huong",
+          "icon": "quehuong.png",
+          "playlist": [
+            {
+              "name": "Karaoke Vietnam",
+              "id": "playlist/PLsY5yje8wya1IbQoH0GuMmIBLEru1-paY/"
+            },
+            {
+              "name": "Nhac Que Huong",
+              "id": "playlist/PLsY5yje8wya06Q3p-tyoQSLJ-kuKEWbHd/"
+            },
+            {
+              "name": "Quang Lê",
+              "id": "playlist/PLsY5yje8wya0kTppcxmeEXZyLFW83xxd5/"
+            },
+            {
+              "name": "Bài Hát Trữ Tình",
+              "id": "playlist/PLsY5yje8wya0cOLEFAsD3RRE39hbOnthc/"
+            }
+          ]
+        },
+		{
+          "id": 3,
+          "name": "Nhac Xuan",
+          "icon": "http://image.mp3.zdn.vn/covers/e/5/e534824a3ad1e87921b0aba2ac9e609e_1451969214.jpg",
+          "playlist": [
+            {
+              "name": "Hat Mung Xuan",
+              "id": "playlist/PLsY5yje8wya0u1WFt1APrEQu6MejVIud5/"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Theo ca si",
+          "icon": "Casi.png",
+          "playlist": [
+			{
+              "name": "Cẩm Ly",
+			  "icon": "http://avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402381565654_500.jpg",
+              "id": "playlist/PLsY5yje8wya0N3X8VAbSP10BHOWbjKn_x/"
+            },
+			{
+              "name": "Khởi My",
+			  "icon": "http://static.matngu12chomsao.com/data/upload/news/images/2015/09/tuan-03/hinh-3-1442520492.jpg",
+              "id": "playlist/PLsY5yje8wya10-zsuKE8_oJMZH78Li_Z9/"
+            },
+			{
+              "name": "Minh Tuyet",
+			  "icon": "http://image.mp3.zdn.vn/covers/c/2/c2c6316600393e9cecd34c11a3e468d7_1395655537.jpg",
+              "id": "playlist/PLsY5yje8wya0gMgd09m7m5gWRndwPJGfB/"
+            },
+			{
+              "name": "Lương Bích Hữu",
+			  "icon": "http://img.saobiz.net/d/2015/07/nhung-hinh-anh-dep-cua-ca-si-luong-bich-huu-1.jpg",
+              "id": "playlist/PLsY5yje8wya3hbMDttB9pffg4UCGJ11CX/"
+            },
+            {
+              "name": "My Tam",
+			  "icon": "http://media.hotbirthdays.com/upload/2015/05/19/my-tam.jpeg",
+              "id": "playlist/PLsY5yje8wya2p_7xnOx2_NqfQUTYQEgJ9/"
+            },
+            {
+              "name": "Hồ Quang Hiếu",
+			  "icon": "http://avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402373904964_500.jpg",
+              "id": "playlist/PLsY5yje8wya189KzXbAMWxu5EfG3cfRk2/"
+            },
+            {
+              "name": "Quang Lê",
+			  "icon": "http://petrotimes.vn/stores/news_dataimages/vuongthanhtam/022015/25/23/1407897880_quangle_2.jpg",
+              "id": "playlist/PLsY5yje8wya0kTppcxmeEXZyLFW83xxd5/"
+            }
+			
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Song Ca",
+          "icon": "songca.png",
+          "playlist": [
+            {
+              "name": "Song ca",
+              "id": "playlist/PLsY5yje8wya1uEzzpJQD0v1jNvhT54Gn7/"
+            }
+          ]
+        }
+      ],
+      "playlist": [
+        {
+          "name": "Nhac Tre",
+          "id": "playlist/PLsY5yje8wya0EhfT2JIsDpCNUGcej7FTQ/"
+        },
+        {
+          "name": "Tre em",
+          "id": "playlist/PLsY5yje8wya3wxGVeUcSDNKfXaDSdIHJJ/"
+        },
+        {
+          "name": "Nhac xuan",
+          "id": "playlist/PLsY5yje8wya1vh-nIKVZRx3nEgBIitC54/"
+        }
+      ],
       "channels": [
         {
           "name": " ViCi Karaoke Online ",
@@ -49,3 +189,224 @@
           "id": "user/KARAOKEChannelIntl/"
         }
       ]
+    },
+    {
+      "id": 1,
+      "name": "Giai Tri",
+      "channels": [
+        {
+          "name": "VTV Showbiz",
+          "id": "user/VTVShowbiz/"
+        },
+        {
+          "name": "HTVOnline Entertainment",
+          "id": "user/htvonlinetube/"
+        },
+        {
+          "name": " Bố ơi! Mình đi đâu thế",
+          "id": "user/vtvbooiminhdidauthe/"
+        },
+        {
+          "name": "Vietnam's Got Talent",
+          "id": "channel/UCdouf4Nk-opU7-J1VMrRHsw/"
+        },
+        {
+          "name": "5sonlinevietnam",
+          "id": "user/5sonlinevietnam/"
+        },
+        {
+          "name": "SASUKE VIỆT NAM",
+          "id": "channel/UCCONQdW98HmR8hipzpbZQxQ/"
+        },
+        {
+          "name": "NGƯỜI ĐI XUYÊN TƯỜNG",
+          "id": "channel/UCy-zQaQRwXrJLVSCOIrB5GQ/"
+        },
+        {
+          "name": "Giong Hat Viet Nhi",
+          "id": "user/btcgionghatvietnhi/"
+        },
+        {
+          "name": " FAP TV",
+          "id": "channel/UC0jDoh3tVXCaqJ6oTve8ebA/"
+        },
+        {
+          "name": "Ghiền Mì Gõ",
+          "id": "channel/UCq6ApdQI0roaprMAY1gZTgw/"
+        },
+        {
+          "name": "Mốc Meo",
+          "id": "channel/UCW3VdT6bYS0yokOTgMe5fjg/"
+        },
+        {
+          "name": "Nghịch",
+          "id": "channel/UCUf2nRja5NATZ-tTPjAmpzg/"
+        },
+        {
+          "name": "TIN VIỆT",
+          "id": "channel/UCG_2mko0fFPhZqA-6i3XvfA/"
+        },
+        {
+          "name": "Tốp 5 Lạ Kỳ",
+          "id": "channel/UCf3bW2-ucrqjK5hOrlDogGQ/"
+        },
+        {
+          "name": "Cà Dễ Dãi Official",
+          "id": "user/CaDeDaiTeam/"
+        },
+        {
+          "name": "BUM TV",
+          "id": "channel/UCfQe3Mk7gJWehwMbOJa9Brw/"
+        },
+        {
+          "name": "Kem Xôi TV",
+          "id": "channel/UCPu7cX9LrVOlCDK905T9tVw/"
+        },
+        {
+          "name": "Hope Tv",
+          "id": "user/kolako94/"
+        },
+        {
+          "name": " BB&BG Entertainment",
+          "id": "user/bbtran21211/"
+        },
+        {
+          "name": "YEAH1TV",
+          "id": "user/2idolshow/"
+        },
+        {
+          "name": "Buoi TV",
+          "id": "channel/UC2KSpZnJqOmPJOu7St2e2hQ/"
+        },
+        {
+          "name": "POPSTVVIETNAM",
+          "id": "user/POPSTVVIETNAM/"
+        },
+        {
+          "name": "DAMtivi",
+          "id": "user/DAMtivi/"
+        },
+        {
+          "name": " DONG GIAO Official",
+          "id": "user/DongGiaoOfficial/"
+        },
+        {
+          "name": "Just For Laughs Gags",
+          "id": "user/JustForLaughsTV/"
+        },
+        {
+          "name": "Chuyện lạ Việt Nam",
+          "id": "user/chuyenlavietnam24h/"
+        },
+        {
+          "name": " CGV Cinemas Vietnam",
+          "id": "channel/UCu9QjEfQFbO4-x5toCFACrA/"
+        },
+        {
+          "name": "Truyen Hinh Vinh Long",
+          "id": "user/VinhLongTV/"
+        },
+        {
+          "name": "Zing TV Official",
+          "id": "channel/UCKaO3GcTYEZbaSuPXYMvnCQ/"
+        },
+        {
+          "name": "ĐÔNG TÂY PROMOTION OFFICIAL",
+          "id": "channel/UCFMEYTv6N64hIL9FlQ_hxBw/"
+        },
+        {
+          "name": "HaiNhatBan.Com Kênh 3",
+          "id": "channel/UCEN7UVtaqR-sNUNkRXj1WFA/"
+        },
+        {
+          "name": "HaiNhatBan.Com Kênh 5",
+          "id": "channel/UCTQE-uQHe8ZDK4aWiGGLLXA/"
+        },
+        {
+          "name": "GalaCuoiOfficial (nhatbun91)",
+          "id": "channel/UCfkwfimCSZYq484lEUA2JBA/"
+        },
+        {
+          "name": "Thang Long Audio Visual",
+          "id": "channel/UCc4DFew7HPlONqWatBM_w0A/videos/"
+        },
+        {
+          "name": "Hot Clips",
+          "id": "user/clipnoibat/"
+        },
+        {
+          "name": "Xã Hội Việt",
+          "id": "channel/UC7b6F_k6YnhBTEMA4z1Mltg/"
+        },
+        {
+          "name": "ZingMp3 Official",
+          "id": "channel/UCyAojDE5b7HoWX6rzYUn5Mg/"
+        },
+        {
+          "name": " Mr bean ",
+          "id": "playlist/PL0EBA141699D29948/"
+        },
+        {
+          "name": "lamntn.com - làm như thế nào",
+          "id": "user/lamntn/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Karaoke Français",
+      "playlist": [
+        {
+          "name": "Francais1",
+          "id": "playlist/PLsY5yje8wya3RoSrALkIe3Gp-sWHSzwY1/"
+        },
+        {
+          "name": "Noel",
+          "id": "playlist/PLzXLzMOee5SkEkunJ9o115dFyv-E4FxTW/"
+        }
+      ],
+      "channels": [
+        {
+          "name": "SVietnamchannel",
+          "id": "channel/UCShWlgS-cibxoy_sUvg1I6g/"
+        },
+        {
+          "name": "Văn hóa Việt Nam",
+          "id": "user/vanhoaviettv/"
+        },
+        {
+          "name": "Khám Phá Việt Nam",
+          "id": "user/KhamPhaVietNamVTV/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hài Tết",
+      "playlist": [
+        {
+          "name": "Francais1",
+          "id": "playlist/PLsY5yje8wya3RoSrALkIe3Gp-sWHSzwY1/"
+        },
+        {
+          "name": "Noel",
+          "id": "playlist/PLzXLzMOee5SkEkunJ9o115dFyv-E4FxTW/"
+        }
+      ],
+      "channels": [
+        {
+          "name": "Thang Long Audio Visual",
+          "id": "channel/UCc4DFew7HPlONqWatBM_w0A/"
+        },
+        {
+          "name": "Văn hóa Việt Nam",
+          "id": "user/vanhoaviettv/"
+        },
+        {
+          "name": "Khám Phá Việt Nam",
+          "id": "user/KhamPhaVietNamVTV/"
+        }
+      ]
+    }
+  ]
+}
