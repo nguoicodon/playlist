@@ -1,5 +1,5 @@
 [
-{"url": "http://pastebin.com/raw.php?i=xjgw92nv", "name": "[COLOR yellow]Star7arab IPTV[/COLOR]"},
+{"url": "https://goo.gl/z1jcjG", "name": "[COLOR yellow]Star7arab IPTV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=xjgw92nv", "name": "[COLOR yellow]Visit us on our Site[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=xjgw92nv", "name": "[COLOR yellow]Star7arab IPTV[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=xjgw92nv", "name": "[COLOR yellow]http://www.star7arab.com/f.asp?f=2[/COLOR]"}
