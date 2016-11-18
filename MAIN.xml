@@ -2,6 +2,1001 @@
 
 <channels>
 
+<channel>#
+<name>[COLOR red][B]**HOT**[/B][/COLOR]</name>
+<mode>2</mode>
+<thumbnail>CLIP-HOT.png</thumbnail>
+
+<items>
+</items>
+</channel>
+
+<channel>
+<name>TÌM KIẾM</name>
+<mode>1</mode>
+<thumbnail>SEARCH.png</thumbnail>
+
+<items>
+
+<item>
+<title>[COLOR red]Tìm kiếm trên kho phim hay nhất[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=88&name=search&query=search&url=thietkeweb30s.org</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemphim.png</thumbnail>
+</item>
+
+<item>
+<title>Tìm Kiếm Phim 1</title>
+<link>timphim</link>
+<mode>60</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemphim.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Tìm Kiếm Phim 2[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage&mode=60&name=&url=timphim</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemphim.png</thumbnail>
+</item>
+
+<item>
+<title>Tìm Kiếm tổng hợp</title>#
+<link>plugin://plugin.video.youtube/kodion/search/input/</link>
+<mode>50</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/TIMCSN.png</thumbnail>
+</item>
+
+<item>
+<title>Tìm Kiếm Ca Nhạc (Zing)</title>#
+<link>plugin://plugin.audio.mp3zing/?mode=700</link>
+<mode>50</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/TIMZING.png</thumbnail>
+</item>
+
+<item>
+<title>Tìm Kiếm Album Nhạc Không Lời</title>
+<link>timalbum</link>
+<mode>50</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemnhac.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Tìm Kiếm Trên FPT-play[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage&mode=50&name=&url=timphim7</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemfptplay.png</thumbnail>
+</item>
+
+<item>
+<title>Tìm Kiếm Show/Clip</title>
+<link>timphim7</link>
+<mode>50</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemtvshow.png</thumbnail>
+</item>
+
+<item>
+<title>Tìm Kiếm MyTube</title>
+<link>plugin://plugin.video.youtube/kodion/search/input/</link>
+<mode>50</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemyoutube.png</thumbnail>
+</item>
+
+
+</items>
+</channel>
+
+<channel>
+<name>CLIP-HOT</name>
+<mode>1</mode>
+<thumbnail>CLIP-HOT.png</thumbnail>
+
+<items>
+
+<item>
+<title>Clip HAY</title>
+<link>https://www.youtube.com/user/hametech</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-v9HEI44G3ho/AAAAAAAAAAI/AAAAAAAAAAA/bqCVb9cXn6s/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>VOA Tiếng Việt</title>
+<link>https://www.youtube.com/user/VOATiengVietVideo</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-sfhK6n3he4I/AAAAAAAAAAI/AAAAAAAAAAA/pEpMYILQZEE/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tin Nóng 24h</title>
+<link>https://www.youtube.com/channel/UCdFb1d92vV-9-sdmsyxJ5xA</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-o6jHlrXIjOs/AAAAAAAAAAI/AAAAAAAAAAA/BZmWNRIKNEc/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tin Mới Nhất</title>
+<link>https://www.youtube.com/channel/UCDaOtakomOpuN2mBpS7GYjQ</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-qflb1M19IsQ/AAAAAAAAAAI/AAAAAAAAAAA/7nNiiZYxNCk/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tin Xôn Xao</title>
+<link>https://www.youtube.com/channel/UCPcb3G6wOUzIM8JWkYWk89Q</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-Rsgow2s8ga4/AAAAAAAAAAI/AAAAAAAAAAA/e1ES21yyrHs/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>24h giai tri</title>
+<link>https://www.youtube.com/channel/UCjBtuxz45D9E5eL3TfoYkWQ</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-FKxubiMTQOw/AAAAAAAAAAI/AAAAAAAAAAA/u73O9l2Mi0o/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Just For Laughs Gags</title>
+<link>https://www.youtube.com/user/justforlaughstv</link>
+<mode></mode>
+<thumbnail>https://yt3.ggpht.com/-yNspfCq56dQ/AAAAAAAAAAI/AAAAAAAAAAA/il9bnycTmHI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Lịch Thi Đấu</title>#
+<link>plugin://plugin.video.itv.euro2016/?iconimage&mode=2&name=L%e1%bb%8bch%20Thi%20%c4%90%e1%ba%a5u&url=http%3a%2f%2fxbmc.itvplus.net%2fZERO2016%2feuro2016_schedule.m3u</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/ZERO2016/IMG/schedule.png</thumbnail>
+</item>
+
+<item>
+<title>Bảng Xếp Hạng</title>#
+<link>plugin://plugin.video.itv.euro2016/?iconimage&mode=2&name=B%e1%ba%a3ng%20X%e1%ba%bfp%20H%e1%ba%a1ng&url=http%3a%2f%2fxbmc.itvplus.net%2fZERO2016%2feuro2016_ranking.xml</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/ZERO2016/IMG/ranking.png</thumbnail>
+</item>
+
+<item>
+<title>Thông Tin Đội Bóng</title>#
+<link>plugin://plugin.video.itv.euro2016/?iconimage&mode=3&name=Th%c3%b4ng%20Tin%20%c4%90%e1%bb%99i%20B%c3%b3ng&url=http%3a%2f%2fwww.uefa.com%2fuefaeuro%2f</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/ZERO2016/IMG/info.png</thumbnail>
+</item>
+
+<item>
+<title>Tin Tức - Video</title>#
+<link>plugin://plugin.video.itv.euro2016/?iconimage&mode=2&name=High%20Light&url=http%3a%2f%2fxbmc.itvplus.net%2fZERO2016%2feuro2016_highlight.xml</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/ZERO2016/IMG/highlight.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Phát Sóng</title>#
+<link>http://code.thietkeweb30s.org/SOURECE/euro2016_live.m3u</link>
+<mode>4</mode>
+<thumbnail>http://xbmc.itvplus.net/ZERO2016/IMG/livetv.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>#
+<name>[COLOR red][B]VUI TẾT[/B][/COLOR]</name>
+<mode>2</mode>
+<thumbnail>M-2016.png</thumbnail>
+
+<items>
+</items>
+</channel>
+
+<channel>
+<name>TRUYỀN HÌNH</name>
+<mode>1</mode>
+<thumbnail>TIVI.png</thumbnail>
+
+<items>
+
+<item>
+<title>[COLOR red][B]One TV - IPTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=http://textuploader.com/5wzrw/raw</link>
+<mode></mode>
+<thumbnail>http://2.bp.blogspot.com/-Xji-XEhnM7g/WBg0f7o4lxI/AAAAAAAALDA/xDpLPCCkHjw4SoD_XpiDw4UOXpM9asINQCK4B/s1600/IPTVFPT.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]One TV - IPTV[/B][/COLOR]</title>#
+<link>http://code.thietkeweb30s.org/SOURECE/FPT.txt</link>
+<mode>4</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/IPTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TIVI XEM LẠI [/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=1&name=TIVI%20XEM%20L%E1%BA%A0I&url=http://xbmc.itvplus.net/plugin.video.itvplus/@Launch.xml</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/anh/TIVIREP.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]Truyền hình SCTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.sctv</link>
+<mode></mode>
+<thumbnail>http://4.bp.blogspot.com/-YYqUaEKpkY0/WClaJI80_gI/AAAAAAAALEg/0ZIqzNxLSBkVOra20e4THF1LaylZCbzOQCK4B/s1600/sctv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]Truyền Hình Tổng Hợp[/B][/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=89&name=&query=Home&url=</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/truyenhinh.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH PHIM TRUYỆN</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=5&name=K%C3%8ANH%20PHIM%20TRUY%E1%BB%86N&url=http://code.thietkeweb30s.org/SOURECE/kenhphimtruyen.xml</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/PHIMTRUYEN.png</thumbnail>
+</item>
+
+<item>
+<title>AN VIEN</title>
+<link>http://code.thietkeweb30s.org/SOURECE/AVG.xml</link>
+<mode>5</mode>
+<thumbnail>http://3.bp.blogspot.com/-VeVE4qeIj-w/WBg0NILAQYI/AAAAAAAALC4/7v-KiOKexLcX58ZlxPjog0OvmaTorqUPACK4B/s1600/anvien.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TRUYỀN HÌNH CÁP [/COLOR]</title>#
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=6&name=&url=http://code.thietkeweb30s.org/SOURECE/tivichonloc.xml</link>
+<mode></mode>
+<thumbnail>http://3.bp.blogspot.com/-mvU_7GSMnkI/WBgwcC646uI/AAAAAAAALCQ/vc_OrOJFPiwFIWfVTtFrAQ7I-v9G6fRwgCK4B/s1600/IPTVFPT.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TVPlus[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=15&name=&url=http://hplus.com.vn/ti-vi-truc-tuyen/</link>
+<mode></mode>
+<thumbnail>http://3.bp.blogspot.com/-xlnlXcVK0YU/WBgxEaNn6tI/AAAAAAAALCY/DhYsV2w0uSksxRsrCESQEI1SW-b11tehgCK4B/s1600/TV-TVPLUS.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]TRUYỀN HÌNH CÁP [/COLOR]</title>#
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=https://dl.dropboxusercontent.com/s/4nwssv5mcynhw1a/NET-TV.m3u</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/truyenhinh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]TRUỀN HÌNH HD[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=89&name=&query=hplus&url=http://hplus.com.vn/ti-vi-truc-tuyen/kenh-hd-kenh-full-hd</link>
+<mode></mode>
+<thumbnail>http://1.bp.blogspot.com/-tK6fNBoTTYA/WBgxtYolpOI/AAAAAAAALCg/KawLo-any5gCi7cEHw5xCJe5yCXPTrMggCK4B/s1600/TV-HDTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]TRUỀN HÌNH - vtvgo[/COLOR]</title>#
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=56&name=&query=Home&url=</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/truyenhinh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]TIVI [/COLOR]- [COLOR red][B]IPTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=http://code.thietkeweb30s.org/iptv/kenh-iptv</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/iptv/TVIPTV.png</thumbnail>
+</item>
+
+<item>
+<title>KÊNH PHIM TRUYỆN</title>#
+<link>https://dl.dropboxusercontent.com/s/7wnt7n2f6hdjucc/KenhPhimTruyen.xml</link>
+<mode>5</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/PHIMTRUYEN.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR cyan][B]XEM PHIM (By talktv.vn)[/B][/COLOR]</title> #
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=http://code.thietkeweb30s.org/iptv/talktv.vn</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/TALKTV.png</thumbnail>
+</item>
+
+<item>
+<title>TIVI ONLINE</title>#
+<link>http://code.thietkeweb30s.org/SOURECE/FPT.xml</link>
+<mode>5</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/TV-ONETV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TRUYỀN HÌNH [/B][/COLOR][COLOR lime][B]FPT[/B][/COLOR]</title>#
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=7&name=&query=category&url=https://fptplay.net/livetv</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/iptv/TVFPT.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]TRUYỀN HÌNH [/B][/COLOR][COLOR lime][B]FPT[/B][/COLOR]</title>#
+<link>plugin://plugin.video.kodi4vn.fptplay/live</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/iptv/TVFPT.png</thumbnail>
+</item>
+
+<item>
+<title>Megafun</title>#
+<link>plugin://plugin.video.4vn.megafun</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/TV-MEGAFUN.png</thumbnail>
+</item>
+
+<item>
+<title>HTV Online</title>
+<link>plugin://plugin.video.thietkeweb30s.org.htvonline/?mode=2&name=Truy%e1%bb%81n%20H%c3%acnh&page=1&url=http%3a%2f%2fhtvonline.com.vn%2flivetv</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/TV-HTVONLINE.png</thumbnail>
+</item>
+
+<item>
+<title>MyTV</title>
+<link>http://code.thietkeweb30s.org/SOURECE/MegaNew.xml</link>
+<mode>5</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/TV-MYTVNET.png</thumbnail>
+</item>
+
+<item>
+<title>VTV - VTV Cab</title>#
+<link>http://code.thietkeweb30s.org/SOURECE/VTVCAB.xml</link>
+<mode>5</mode>
+<thumbnail>http://huehdplus.com/files/assets/ANHKODI/VTVCAP.png</thumbnail>
+</item>
+
+<item>
+<title>VTV Cab</title>#
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=5&name=VTV%20Cab&url=http://xbmc.itvplus.net/ILIVE/VTVCAB.xml</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net//LOGO/MENU-TV/TV-VTVCAB.png</thumbnail>
+</item>
+
+
+<item>
+<title>Life TV</title>
+<link>http://code.thietkeweb30s.org/kodi-giaitri/LifeTV.xml</link>
+<mode>5</mode>
+<thumbnail>http://huehdplus.com/files/assets/ANHKODI/LifeTV.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Việt Hải Ngoại</title>#
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=https://raw.githubusercontent.com/cloudlist/repository.viplist/master/MyFolder/ReservedFiles/haingoaitv.m3u</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/TVHAINGOAI.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh Hỗn Hợp</title>
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=https://raw.githubusercontent.com/cloudlist/repository.viplist/master/MyFolder/honhop.m3u</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/honhop.png</thumbnail>
+</item>
+
+<item>
+<title>WORLD TV</title>
+<link>http://xbmc.itvplus.net/ILIVE/WORLD.m3u</link>
+<mode>4</mode>
+<thumbnail>http://1.bp.blogspot.com/-D_yFT8n2CK4/WBgyYs3Uc7I/AAAAAAAALCo/knKKCp4YOb02qGNm46hu6PI_B8f9VLSKQCK4B/s1600/TV-WORLD.png</thumbnail>
+</item>
+
+<item>
+<title>RADIO - FM</title>
+<link>http://xbmc.itvplus.net/ILIVE/RADIO-FM.xml</link>
+<mode>5</mode>
+<thumbnail>http://2.bp.blogspot.com/-zuSgYrW8bEY/WBgy-YweBmI/AAAAAAAALCw/Qym4PB9dqM0Eessz6ZlJaAPA-fVqR7yogCK4B/s1600/RADIO.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>#
+<name>TIVI XEM LẠI</name>
+<mode>15</mode>
+<thumbnail>TIVIREP.png</thumbnail>
+
+<items>
+</items>
+</channel>
+
+<channel>
+<name>TV SHOWS</name>
+<mode>1</mode>
+<thumbnail>TVSHOWS.png</thumbnail>
+
+<items>
+
+<item>
+<title>[COLOR red]Tìm Kiếm TV SHOWS[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage&mode=50&name=&url=timphim7</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/timkiemtvshow.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TRUYỀN HÌNH[/B][/COLOR][COLOR red][B]  THỰC TẾ[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/new/5284724f169a585a2449c48d/1</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/nbg4xlyi6lm4d02/tv-show1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TRÒ CHƠI[/B][/COLOR][COLOR blue][B]  TRUYỀN HÌNH[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/new/52847259169a585a2449c48e/1</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/nbg4xlyi6lm4d02/tv-show1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TV SHOWS[/B][/COLOR][COLOR cyan][B]  ĐÀM LUẬN[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/new/52a812fdc9692822c05c5c52/1</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/nbg4xlyi6lm4d02/tv-show1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]TV Shows[/B][/COLOR][COLOR lime][B] XEM NHIỀU NHẤT[/B][/COLOR]</title>#
+<link>plugin://plugin.video.4vn.fptplay/list/view/5284724f169a585a2449c48d/1</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/nbg4xlyi6lm4d02/tv-show1.png</thumbnail>
+</item>
+
+<item>
+<title>TVshows</title>#
+<link>http://xuongphim.tv//xem-phim-tv-show.html</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/rnehqphm62lulpt/TVSHOW.png</thumbnail>
+</item>
+
+<item>
+<title>Victorias Secret Fashion Show</title>#
+<link>http://xbmc.itvplus.net/TVSHOWS/Victoriasecrect.xml</link>
+<mode>5</mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-SHOW/VICTORIA_SECRET.png</thumbnail>
+</item>
+
+<item>
+<title>TV Show </title>
+<link>plugin://plugin.video.tvshow</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/rnehqphm62lulpt/TVSHOW.png</thumbnail>
+</item>
+
+<item>
+<title>Kênh | TV Shows</title>
+<link>https://dl.dropboxusercontent.com/s/f3oe007ztchp9p8/tivishow.xml</link>
+<mode>5</mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/nbg4xlyi6lm4d02/tv-show1.png</thumbnail>
+</item>
+
+
+<item>
+<title>Thể Loại Khác</title>#
+<link>plugin://plugin.video.itv.htvonline/?mode=4&name=TV%20Show&page=1&url=http://htvonline.com.vn/shows</link>
+<mode>7</mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-SHOW/THELOAIKHAC2.png</thumbnail>
+</item>
+
+<item>
+<title>CLIP HOT</title>#
+<link>cliphot</link>
+<mode>15</mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-SHOW/CLIPHOT.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>CA NHẠC</name>
+<mode>1</mode>
+<thumbnail>MUSIC.png</thumbnail>
+
+<items>
+
+<item>
+<title>Video + Clip Ca Nhạc</title>#
+<link>http://m.nhaccuatui.com/</link>
+<mode>7</mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/5ifkntm9unyjsqf/nhaccuatui.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Video + Clip Ca Nhạc[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=46&name=&query=Home&url=</link>
+<mode></mode>
+<thumbnail>https://dl.dropboxusercontent.com/s/5ifkntm9unyjsqf/nhaccuatui.png</thumbnail>
+</item>
+
+
+<item>
+<title>CA NHẠC</title>
+<link>plugin://plugin.audio.thietkeweb30s.org.canhac</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/CANHAC.png</thumbnail>
+</item>
+
+<item>
+<title>Music Chia Sẻ Nhạc</title>#
+<link>plugin://plugin.audio.thietkeweb30s.org.chiasenhac</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/chiasenhac.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Music Chia Sẻ Nhạc[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=45&name=&query=Home&url=</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/chiasenhac.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Nhạc Sàn[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=42&name=&query=Home&url=</link>
+<mode></mode>
+<thumbnail>http://s27.postimg.org/cu7mn8o4v/icon175x175.png</thumbnail>
+</item>
+
+<item>
+<title>Zing Music</title>#
+<link>plugin://plugin.audio.mp3zing</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-MUSIC/ZINGMP3.png</thumbnail>
+</item>
+
+<item>
+<title>Nhạc Số</title>#
+<link>plugin://plugin.audio.itv.nhacso</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/NHACSO.png</thumbnail>
+</item>
+
+<item>
+<title>ZingMp3 Official</title>
+<link>https://www.youtube.com/user/ZingMp3Official</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-MUSIC/ZINGMP3.png</thumbnail>
+</item>
+
+<item>
+<title>Thúy Nga - Paris By Night</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=5&name=Th%C3%BAy%20Nga%20-%20Paris%20By%20Night&url=http://code.thietkeweb30s.org/SOURECE/itv_thuynga.xml</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/PRBN.png</thumbnail>
+</item>
+
+<item>
+<title>Asia - Entertainment</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=5&name=Asia%20-%20Entertainment&url=http://code.thietkeweb30s.org/SOURECE/Asia.xml</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/ASIA.png</thumbnail>
+</item>
+
+<item>
+<title>Nhạc Tổng Hợp</title>#
+<link>http://xbmc.itvplus.net/MUSIC/NhacTH.m3u</link>
+<mode>4</mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-MUSIC/NHACTONGHOP.png</thumbnail>
+</item>
+
+<item>
+<title>Nhạc Xuân</title>#
+<link>http://xbmc.itvplus.net/MUSIC/NhacXuan.m3u</link>
+<mode>4</mode>
+<thumbnail>http://image.mp3.zdn.vn/thumb/165_165/covers/e/5/e534824a3ad1e87921b0aba2ac9e609e_1451969214.jpg</thumbnail>
+</item>
+
+<item>
+<title>Video + Clip Ca Nhạc (HTV)</title>#
+<link>http://hplus.com.vn/ca-nhac</link>
+<mode>7</mode>
+<thumbnail>https://yt3.ggpht.com/-WI_J9A7kDMk/AAAAAAAAAAI/AAAAAAAAAAA/uEkLBu6iiv8/s512-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Video + Clip Ca Nhạc (CSN)</title>#
+<link>http://chiasenhac.com/</link>
+<mode>7</mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU-MUSIC/CSN.png</thumbnail>
+</item>
+
+<item>
+<title>Video + Clip Ca Nhạc (VP9)</title>
+<link>http://f.vp9.tv/music/</link>
+<mode>7</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/VP9.png</thumbnail>
+</item>
+
+<item>
+<title>Thế Giới Nhạc Không Lời</title>#
+<link>http://www.woim.net/</link>
+<mode>15</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/NHACKHONGLOI.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>PHIM TRUYỆN</name>
+<mode>1</mode>
+<thumbnail>MOVIE.png</thumbnail>
+
+<items>
+
+<item>
+<title>[COLOR lime]RẠP PHIM 1[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=88&name=phim&query=FRE&url=</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/phimhatnhat.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR red]RẠP PHIM 2[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage&mode=2&name=PHIM%20TRUY%E1%BB%86N&url=https://dl.dropboxusercontent.com/s/7p75oezxlgbmiah/MenuM.xml</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/phimhatnhat.png</thumbnail>
+</item>
+
+
+<item>
+<title>HayhayTV</title>#
+<link>plugin://plugin.video.lnt.hayhaytv</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/hayhaytv.png</thumbnail>
+</item>
+
+<item>
+<title>PhimLT</title>
+<link>plugin://plugin.video.thietkeweb30s.phimlt</link>
+<mode></mode>
+<thumbnail>http://3.bp.blogspot.com/-R-I549v6aFo/WBnFgQ-CzqI/AAAAAAAALDU/W8Ooif0K2qY9Ed6bpHZD8UT2xaaIU1t7gCK4B/s1600/PHIMLT.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR chartreuse]TV.Zing.VN[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.zingtv</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/stvzing.png</thumbnail>
+</item>
+
+
+</items>
+</channel>
+
+<channel>
+<name>GÓC CỦA BÉ</name>
+<mode>2</mode>
+<thumbnail>CHILD.png</thumbnail>
+
+<items>
+</items>
+</channel>
+
+<channel>
+<name>XÃ HỘI</name>
+<mode>1</mode>
+<thumbnail>XAHOI.png</thumbnail>
+<items>
+
+<item>
+<title>[COLOR red]FADIO [/COLOR][COLOR orange][B]Đọc truyện online[/B][/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=7&name=&query=category&url=https://fptplay.net/danh-muc/571f318417dc1354c933f78c/fadio.html</link>
+<mode></mode>
+<thumbnail>http://thietkeweb30s.org/files/assets//fadio.png</thumbnail>
+</item>
+
+<item>
+<title>Kho Sách Nói</title>
+<link>plugin://plugin.audio.thietkeweb30s.org.khosachnoi</link>
+<mode>#</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/khosachnoi.png</thumbnail>
+</item>
+
+<item>
+<title>Kinh Phật</title>
+<link>plugin://plugin.video.ttv.phatam</link>
+<mode>#</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/kinhphat.png</thumbnail>
+</item>
+
+<item>
+<title>Phim Phật Giáo</title>
+<link>http://code.thietkeweb30s.org/SOURECE/phimphat.xml</link>
+<mode>6</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/phimphat.png</thumbnail>
+</item>
+
+<item>
+<title>Tôn Giáo</title>
+<link>https://dl.dropboxusercontent.com/s/r6cin7z4gcmjn7k/tongiao.xml</link>
+<mode>5</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/tongiao.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>TỔNG HỢP</name>
+<mode>1</mode>
+<thumbnail>TONGHOP.png</thumbnail>
+
+<items>
+
+
+<item>
+<title>[COLOR red]Youtube[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=98&name=&query=Home&url=</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/youtube.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]Thư mục chia sẻ của tôi [/COLOR][COLOR orange]trên Fshare (MyFshare)[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=15&name=&query=MyFshare&url=</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/thumucchiase.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]Thông tin từ [/COLOR][COLOR magenta]taiphimhd.com[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=53&name=phim&query=taiphimhd.com&url=</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/TAIPHIMHD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR cyan]Thông tin từ [/COLOR][COLOR yellow]HDVietnam.com[/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=8&name=phim&query=HDV&url=</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/hdvietnam.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]HÀI KỊCH MỚI NHẤT[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/new/51595e77c96928703a603b2f/1</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/haihuoc.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]HÀI KỊCH XEM NHIỀU NHẤT[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/view/51595e77c96928703a603b2f/1</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/haihuoc.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]CẢI LƯƠNG MỚI NHẤT[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/new/52785a03c96928156a09c08c/1</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]CẢI LƯƠNG XEM NHIỀU NHẤT[/B][/COLOR]</title>
+<link>plugin://plugin.video.4vn.fptplay/list/view/52785a03c96928156a09c08c/1</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Web giải trí</title>
+<link>plugin://plugin.video.thietkeweb30g.org.webgiaitri</link>
+<mode>#</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/webgiaitri.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>MY TUBE</name>
+<mode>2</mode>
+<thumbnail>MYTUBE.png</thumbnail>
+
+<items>
+</items>
+</channel>
+
+<channel>
+<name>F-SHARE</name>
+<mode>1</mode>
+<thumbnail>FSHARE.png</thumbnail>
+<art>http://xbmc.itvplus.net/LOGO/FANART/F_SHARE.jpg</art>
+<items>
+
+<item>
+<title>[COLOR red]Tài Khoản[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=101&name=%5bCOLOR%20red%5dT%c3%a0i%20Kho%e1%ba%a3n%5b%2fCOLOR%5d&page=0&url=account</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/account.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Mở Link Fshare[/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=90&name=%5bCOLOR%20blue%5dM%e1%bb%9f%20Link%20Fshare%5b%2fCOLOR%5d&page=0&url=openlink</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/openurl.png</thumbnail>
+</item>
+
+<item>
+<title>Kho Phim: Vphim</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=2&name=Vphim&page=0&url=http%3a%2f%2fvaphim.com%2f</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/vphim.png</thumbnail>
+</item>
+
+<item>
+<title>Kho Phim: Mphim</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=2&name=Mphim&page=0&url=http%3a%2f%2fmphim.net</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/mphim.png</thumbnail>
+</item>
+
+<item>
+<title>Kho Phim: Fphim</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=2&name=Fphim&page=0&url=http%3a%2f%2ffsharefilm.com%2f</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/fphim.png</thumbnail>
+</item>
+
+<item>
+<title>Ca Nhạc: Thúy Nga</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=50&page=0&url=http%3a%2f%2fxbmc.itvplus.net%2fFSHARE%2ffshare_thuynga.xml</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/thuynga.png</thumbnail>
+</item>
+
+<item>
+<title>Cộng Đồng Chia Sẻ</title>
+<link>plugin://plugin.video.thietkeweb30s.org.fshare/?mode=50&page=0&url=http%3a%2f%2fxbmc.itvplus.net%2fFSHARE%2ffshare_movies.xml</link>
+<mode>#</mode>
+<thumbnail>http://xbmc.itvplus.net/FSHARE/ICON/share.png</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name>SPORT</name>
+<mode>1</mode>
+<thumbnail>SPORT.png</thumbnail>
+
+<items> 
+
+<item>
+<title>[COLOR yellow][B]NGOẠI HẠNG ANH [/B][/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=7&name=&query=category&url=https://fptplay.net/ngoai-hang-anh</link>
+<mode></mode>
+<thumbnail>http://thietkeweb30s.org/files/assets//NGOAIHANGANH.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]THỂ THAO [/B][/COLOR]</title>
+<link>plugin://plugin.video.phimhaynhat/?iconimage&mode=7&name=&query=category&url=https://fptplay.net/danh-muc/52842df7169a580a79169efd/the-thao.html</link>
+<mode></mode>
+<thumbnail>http://thietkeweb30s.org/files/assets//Sport_img.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]OLYMPIC[/COLOR] [COLOR green]RIO[/COLOR] [COLOR blue]2016[/COLOR]</title>#
+<link>plugin://plugin.video.itv.sport/?iconimage=http%3a%2f%2fxbmc.itvplus.net%2fLOGO%2fMENU-SPORT%2fRIO2016.png&mode=4&name=OLYMPIC%20RIO%202016&page&url=http%3a%2f%2fxbmc.itvplus.net%2fSTREAM%2fitv%40sport.txt</link>
+<mode></mode>
+<thumbnail>http://xbmc.itvplus.net/LOGO/MENU/RIO2016.png</thumbnail>
+<items>
+
+<item>
+<title>KÊNH BÓNG ĐÁ</title>
+<link>http://code.thietkeweb30s.org/SOURECE/bongdaK+.xml</link>
+<mode>5</mode>
+<thumbnail>http://is2.mzstatic.com/image/pf/us/r30/Purple6/v4/c8/a3/76/c8a376a8-4d9e-5e84-9852-a1b7deaa7989/mzl.dhbwiosv.png</thumbnail>
+</item>
+
+<item>
+<title>BÓNG ĐÁ TRỰC TUYẾN</title>
+<link>plugin://plugin.video.p2p-streams/?mode=400&name=p2p&url=p2p</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/XemBongDa.png</thumbnail>
+</item>
+
+<item>#
+<title>[COLOR red[LIVE] [/COLOR][COLOR orange][B]bóng đá 24h[/B][/COLOR]</title>
+<link>plugin://plugin.video.thietkeweb30s.org.moviesplay/?iconimage=&mode=5&name=bongdatructuyen&url=http://code.thietkeweb30s.org/iptv/bongdatructiep.xml</link>
+<mode></mode>
+<thumbnail>https://lh6.ggpht.com/-DBY9b1VBjC3msApI308SbrqWFcjh8Bnkey-WHOw_twdqCs2rER8620dXMCgWMx13A=w300</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red[LIVE] [/COLOR][COLOR orange][B]bóng đá 24h[/B][/COLOR]</title>#
+<link>plugin://plugin.video.thietkeweb30s.org.truyenhinhiptv/?iconimage&mode=1&name=&url=http://code.thietkeweb30s.org/iptv/bongdatructiep</link>
+<mode></mode>
+<thumbnail>https://lh6.ggpht.com/-DBY9b1VBjC3msApI308SbrqWFcjh8Bnkey-WHOw_twdqCs2rER8620dXMCgWMx13A=w300</thumbnail>
+</item>
+
+<item>
+<title>K+ Plus</title>
+<link>http://code.thietkeweb30s.org/SOURECE/k%2Bplus.m3u</link>
+<mode>4</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/KPLUS.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Live[/COLOR] TV</title>#
+<link>http://code.thietkeweb30s.org/SOURECE/livetv.m3u</link>
+<mode>4</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/LIVETV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Thể Thao[/COLOR]Xem Lại</title>#
+<link>plugin://plugin.video.4vn.fptplay/list/new/52842df7169a580a79169efd/1</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/highlight.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Live[/COLOR] Cast A Way</title>
+<link>plugin://plugin.video.castaway</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/castaway.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Live[/COLOR] P2P Stream</title>
+<link>plugin://plugin.video.p2p-streams</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/p2pstream.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Live[/COLOR] P2P Sport</title>
+<link>plugin://plugin.video.p2psport</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/p2psport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Live[/COLOR] Plexus</title>
+<link>plugin://program.plexus</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/plexus.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold]Hướng Dẫn[/COLOR]</title>
+<link>http://img.thietkeweb30s.org/files/assets/kodi/huongdan.jpg</link>
+<mode>103</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/guide.png</thumbnail>
+</item>
+
+<item>
+<title>Tin Tức - Sự Kiện</title>#
+<link>http://fptplay.net/danh-muc/52842df7169a580a79169efd/the-thao.html</link>
+<mode>5</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/ITVSPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sự Kiện Thể Thao</title>#
+<link>http://hplus.com.vn/vi/categories/su-kien-the-thao</link>
+<mode>7</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/ITVSPORT2.png</thumbnail>
+</item>
+
+</items>
+</channel>
 
 <channel>
 <name>PLAYLIST</name>
@@ -35,7 +1030,21 @@
 </items>
 </channel>
 
+<channel>#
+<name>HƯỚNG DẪN SỬ DỤNG</name>
+<mode>1</mode>
+<thumbnail>guide.png</thumbnail>
+<items>
 
+<item>
+<title>[COLOR ffff0000]Hướng dẫn nâng cấp ứng dụng addons cho kodi huehdplus [/COLOR]</title>
+<link>http://code.thietkeweb30s.org/SOURECE/huongdankodi.m3u</link>
+<mode>4</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/huongdankodi.png</thumbnail>
+</item>
+
+</items>
+</channel>
 
 
 <channel>
@@ -51,7 +1060,26 @@
 <thumbnail>http://code.thietkeweb30s.org/anhkodi/setting.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR ffff0000]Hướng dẫn nâng cấp ứng dụng addons cho kodi huehdplus [/COLOR]</title>#
+<link>http://code.thietkeweb30s.org/SOURECE/huongdankodi.m3u</link>
+<mode>4</mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/huongdankodi.png</thumbnail>
+</item>
 
+<item>
+<title>Tài khoản - DANGCAPHD</title>#
+<link>plugin://plugin.video.thietkeweb30s.org.dangcap/?mode=99</link>
+<mode></mode>
+<thumbnail>http://img.thietkeweb30s.org/files/assets/kodi/logindangcap.png</thumbnail>
+</item>
+
+<item>
+<title>Clear Cache</title>
+<link>plugin://plugin.video.xbmchubmaintenance/?mode=4&name=Clear%20Cache&url=url</link>
+<mode></mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/clear.png</thumbnail>
+</item>
 
 </items>
 </channel>
