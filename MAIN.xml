@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<items>
+
+
+<item>
+<title>[COLOR ffff0000]Thay Đổi Playlist[/COLOR]</title>
+<link>setting</link>
+<mode>500</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/edit.png</thumbnail>
+</item>
+
+<item>
+<title>M3U - XML URL Patch</title>
+<link>remote</link>
+<mode>11</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/internet.png</thumbnail>
+</item>
+
+<item>
+<title>M3U - XML LOCAL Patch</title>
+<link>local</link>
+<mode>11</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/local.png</thumbnail>
+</item>
+
+</items>
