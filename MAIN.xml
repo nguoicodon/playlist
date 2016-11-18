@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<channels>
+
+
+<channel>
+<name>PLAYLIST</name>
+<mode>1</mode>
+<thumbnail>PLAYLIST.png</thumbnail>
+
 <items>
 
 
@@ -25,3 +33,27 @@
 </item>
 
 </items>
+</channel>
+
+
+
+
+<channel>
+<name>CÀI ĐẶT</name>
+<mode>1</mode>
+<thumbnail>ADDON-SETTING.png</thumbnail>
+<items>
+
+<item>
+<title>Tùy Chọn</title>
+<link>itv-settings</link>
+<mode>500</mode>
+<thumbnail>http://code.thietkeweb30s.org/anhkodi/setting.png</thumbnail>
+</item>
+
+
+
+</items>
+</channel>
+
+<channels>
